@@ -1,0 +1,16 @@
+{
+  "status": "reviewed",
+  "translator": "/root/website_translation_b",
+  "reviewer": "/root/website_review_b_asian",
+  "method": "Existing Google Cloud Translation draft with agent corrections and independent AI review; no human/native-speaker validation",
+  "reviewedAt": "2026-11-01",
+  "sourceHash": "69c3109f676976b1c91341050cd45528546af26f35ca5a8a0f289b5c666f401b",
+  "catalogHash": "91bde1f214f8253d58954ec41f10e085420d19415bbfe4a455f97d696b0e77b3",
+  "notes": [
+    "Independently compared all 194 fields with the English source, including gameplay, community, download instructions, screenshots, navigation and accessibility controls.",
+    "Corrected invented ants/bees, musical playing, horse racing, basketball-team Warriors, bacterial colony and Wikipedia claims; retained actual 食堂/孢子堆/跑道 game building labels.",
+    "Corrected first-session guides, replay files versus video, Mac build choice, Snap package wording, source-code labels and map screenshot details.",
+    "Preserved early-access, guest/ranked sign-in, browser-save and signing-key qualifications, all placeholders, exact executable commands, filenames and literal screenshot counters.",
+    "AI linguistic review only. Natural language and rendered terminology may still benefit from native-speaker review; this record does not establish human validation or deployment."
+  ]
+}

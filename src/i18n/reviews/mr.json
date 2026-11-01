@@ -1,0 +1,30 @@
+{
+  "status": "reviewed",
+  "translator": "/root/website_translation_b",
+  "reviewer": "/root/website_final_integration; /root/website_review_b_latin (native Tutorial menu-label review)",
+  "method": "Existing Google Cloud Translation draft with agent corrections and independent AI review; no human/native-speaker validation",
+  "reviewedAt": "2026-11-01",
+  "sourceHash": "69c3109f676976b1c91341050cd45528546af26f35ca5a8a0f289b5c666f401b",
+  "catalogHash": "d3af4306d962d051f796693b59bf03413ef318ea1435bedb06cc30b9bd7521a6",
+  "notes": [
+    "Independently compared all 194 fields against the English source for gameplay, economy and indirect control, account/guest and early-access qualifications, browser-save and edition-switching cautions, installation instructions, metadata and accessible UI.",
+    "Aligned inn and swarm references with native game labels खानावळ and पोळे; corrected healing as recovery, squad/colony confusion, missing screenshot color, lime color, and release/store/source-code labels. Preserved exact product name, installer command, filenames, screenshot counters and all placeholders.",
+    "AI review only. Marathi grammatical and style choices have not been validated by a human or native speaker.",
+    "Supplementary native Tutorial menu-label review by /root/website_review_b_latin covered home.closing.description and downloads.browserDescription; original full-catalog reviewer provenance is retained."
+  ],
+  "supplementaryReviews": [
+    {
+      "reviewer": "/root/website_review_b_latin",
+      "reviewedAt": "2026-11-01",
+      "fields": [
+        "home.closing.description",
+        "downloads.browserDescription"
+      ],
+      "previousReviewer": "/root/website_final_integration",
+      "previousCatalogHash": "4825e67cd0a43771f62d8dd1a76554487fa495f144700f2fc49f877b36f2fcbd",
+      "notes": [
+        "Compared the two Tutorial navigation instructions against the registered native game [tutorial] label. Corrected menu-name mismatches using natural grammatical inflection; retained all browser-save and backup qualifications. This is a targeted independent AI review, not a replacement for the original full-catalog review."
+      ]
+    }
+  ]
+}

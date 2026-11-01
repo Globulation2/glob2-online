@@ -1,0 +1,32 @@
+{
+  "status": "reviewed",
+  "translator": "/root/website_plan",
+  "reviewer": "/root/website_localization_audit; /root/website_review_b_latin (native Tutorial menu-label review)",
+  "method": "Cloud Translation draft with translator corrections followed by independent AI linguistic review; not human/native-speaker validation",
+  "reviewedAt": "2026-11-01",
+  "sourceHash": "69c3109f676976b1c91341050cd45528546af26f35ca5a8a0f289b5c666f401b",
+  "catalogHash": "79a7973dd5591fbd82250cd38f35772cd2103b1f9f1fe38daf5f9a22050289b3",
+  "notes": [
+    "Compared all194 fields with English for meaning, colony/economy emphasis, indirect control, worker needs, guest/ranked access, early-access qualifications, profile-local saves, release/store availability and installation requirements.",
+    "Corrected misleading machine senses including installer-as-person, tarball, media playback, music play, lime-colored buildings, range circles and campaign/work-stoppage wording where applicable.",
+    "Cross-checked inn/swarm building references against current native game labels; preserved protected brand names, executable names, installer commands and actual English screenshot counters.",
+    "Preserved placeholder placement without HTML, existing product/artifact boundaries, signing-key uninstall and backup requirements, and no automatic updates for direct bundles.",
+    "No human/native-speaker validation or public deployment is claimed.",
+    "Supplementary native Tutorial menu-label review by /root/website_review_b_latin covered home.closing.description and downloads.browserDescription; original full-catalog reviewer provenance is retained."
+  ],
+  "supplementaryReviews": [
+    {
+      "reviewer": "/root/website_review_b_latin",
+      "reviewedAt": "2026-11-01",
+      "fields": [
+        "home.closing.description",
+        "downloads.browserDescription"
+      ],
+      "previousReviewer": "/root/website_localization_audit",
+      "previousCatalogHash": "8a27c00cee200e915ddbdef305b76646b57c5b4d1aab50bb45485a7573472cd6",
+      "notes": [
+        "Compared the two Tutorial navigation instructions against the registered native game [tutorial] label. Corrected menu-name mismatches using natural grammatical inflection; retained all browser-save and backup qualifications. This is a targeted independent AI review, not a replacement for the original full-catalog review."
+      ]
+    }
+  ]
+}

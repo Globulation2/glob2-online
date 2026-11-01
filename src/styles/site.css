@@ -356,3 +356,20 @@ td:nth-child(2) { overflow-wrap: anywhere; }
 .page-heading h1 { overflow-wrap:anywhere; }
 
 .guide-media--detail { max-width:420px; }
+
+/* Static localized marketing routes use the same artwork and layout. */
+.language-picker { position: relative; }
+.language-picker summary { cursor: pointer; min-height: var(--target); display: flex; align-items: center; padding: 0 var(--sp-3); background: var(--surface); color: var(--ink); border-radius: var(--r-pill); font-size: var(--text-sm); font-weight: 700; }
+.language-options { position: absolute; inset-inline-end: 0; top: calc(100% + 8px); z-index: 20; display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 4px; padding: var(--sp-3); width: min(34rem,calc(100vw - 32px)); max-height: 60vh; overflow-y: auto; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-md); box-shadow: var(--shadow-lg); }
+.language-options a { display: flex; align-items: center; min-height: var(--target); padding: var(--sp-2); overflow-wrap: anywhere; }
+.language-options a[aria-current] { background: var(--surface-3); font-weight: 800; }
+.header-end { margin-left: 0; margin-inline-start: auto; flex-wrap: wrap; }
+.nav a { white-space: normal; text-align: center; }
+:root:not([lang='en']) body:has(.home) .site-header { position: relative; background: var(--grass-deep); }
+:root:not([lang='en']) .home .hero-copy { padding-top: var(--sp-7); }
+:root[dir='rtl'] .home .hero-colony::after { transform: scaleX(-1); }
+:root[dir='rtl'] .hero-colony > video, :root[dir='rtl'] .hero-colony { direction: ltr; }
+.home h1, .home h2, .path, .site-footer a { overflow-wrap: anywhere; }
+@media (max-width:700px) { .header-end { width:100%; margin-inline-start:0; } .language-options { inset-inline-start:0; inset-inline-end:auto; } }
+:root[dir='rtl'] .home .hero-online, :root[dir='rtl'] .brand-online, :root[dir='rtl'] .home .facts li, :root[dir='rtl'] h1, :root[dir='rtl'] h2, :root[dir='rtl'] h3, :root[dir='rtl'] .eyebrow { letter-spacing: normal; }
+code[dir='ltr'], pre[dir='ltr'] { direction: ltr; unicode-bidi: isolate; text-align: left; }

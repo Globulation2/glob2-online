@@ -1,0 +1,16 @@
+{
+  "status": "reviewed",
+  "translator": "/root/website_translation_b",
+  "reviewer": "/root/website_review_b_asian",
+  "method": "Existing Google Cloud Translation draft with agent corrections and independent AI review; no human/native-speaker validation",
+  "reviewedAt": "2026-11-01",
+  "sourceHash": "69c3109f676976b1c91341050cd45528546af26f35ca5a8a0f289b5c666f401b",
+  "catalogHash": "c3185d4a1b92347ea04eedb8473b764241eb868ef90e66388629ec06a7d9fbf4",
+  "notes": [
+    "Independently compared all 194 fields with the English source, including gameplay, community, download instructions, screenshots, navigation and accessibility controls.",
+    "Corrected generic swarm buildings to native గూడు, political campaigns to native కథా యాత్ర, military support versus enduring an attack, limestone versus lime colour and worker role descriptions versus player imperatives.",
+    "Reconciled native సత్రం, గూడు, వనరుల తొలగింపు జెండా and పరుగు మైదానం labels; confirmed Tutorial matches native ట్యుటోరియల్. Clarified save/replay files, food-supply, source-code labels and DejaVu derivation for Glob2 Sans only.",
+    "Preserved early-access, guest/ranked sign-in, browser-save and signing-key qualifications, all placeholders, exact executable commands, filenames and literal screenshot counters.",
+    "AI linguistic review only. Natural language and rendered terminology may still benefit from native-speaker review; this record does not establish human validation or deployment."
+  ]
+}

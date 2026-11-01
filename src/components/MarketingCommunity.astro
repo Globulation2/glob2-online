@@ -1,0 +1,20 @@
+---
+
+import { localizedMarketing, translate, type Locale } from '../i18n';
+const {locale='en'}=Astro.props as {locale?:Locale};
+const {community}=localizedMarketing(locale);
+const t=(key:Parameters<typeof translate>[1], params:Record<string,string|number>={})=>translate(locale,key,params);
+import Base from '../layouts/Base.astro';
+import PageHeading from '../components/PageHeading.astro';
+import {site} from '../data/site';
+
+---
+<Base locale={locale} title={t('ui.community')} description={community.description}><div class="page-shell"><PageHeading eyebrow={t('ui.community')} title={community.title} description={community.description}/>
+<section class="prose section-space"><h2>{t('community.discordTitle')}</h2><p>{community.discordDescription}</p><a class="button" href={site.discordUrl}>{t('community.discordLink')} ↗</a></section>
+<div class="two-grid section-space">
+<article class="feature"><h2>{community.contributionTitle}</h2><p>{community.contributionDescription}</p><a class="text-link" href={site.sourceUrl}>{t('community.projectLink')} ↗</a></article>
+<article class="feature"><h2>{community.bugTitle}</h2><p>{community.bugDescription}</p><a class="text-link" href={`${site.sourceUrl}/issues`}>{t('community.issuesLink')} ↗</a></article>
+<article class="feature"><h2>{community.mapsTitle}</h2><p>{community.mapsDescription}</p><a class="text-link" href={site.mapsUrl}>{t('community.mapsLink')} ↗</a></article>
+<article class="feature"><h2>{community.historyTitle}</h2><p>{community.historyDescription}</p><a class="text-link" href="https://globulation2.org/wiki/Main_Page">{t('community.wikiLink')} ↗</a></article>
+</div>
+</div></Base>

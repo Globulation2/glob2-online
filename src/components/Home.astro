@@ -1,55 +1,58 @@
 ---
 import '../styles/home.css';
 import {site} from '../data/site';
-import {home, community} from '../data/marketing';
-const {concept='colony'}=Astro.props;
+import { localizedMarketing, translate, localizedPath, englishLabel, type Locale } from '../i18n';
+const {concept='colony',locale='en'}=Astro.props as {concept?:string;locale?:Locale};
+const {home,community}=localizedMarketing(locale);
+const t=(key:Parameters<typeof translate>[1], params:Record<string,string|number>={})=>translate(locale,key,params);
+const english=(label:string)=>englishLabel(locale,label);
 const sprites=['worker','inn','war-flag'];
 const shots=[
-  {src:'/images/home-thriving-colony.webp',width:1280,height:720,title:'Grow a thriving colony',caption:'A purple colony late in a four-colony match: rows of inns and other buildings, with dozens of globs at work between the lakes.',alt:'A large purple colony seen from above, with a purple swarm on the left, rows of crescent-shaped inns and other buildings, many small purple globs, lakes ringed with sand and fields of wheat to the right.'},
-  {src:'/images/home-colony-defence.webp',width:1280,height:720,title:'Hold your ground',caption:'Three red swarms around the colony’s buildings. Purple globs have reached its top-left edge, where red warriors are under attack.',alt:'A red colony with three spiky red swarms, inns, round stone buildings and a pool. Range circles overlap the colony, and purple globs mix with red globs near the top-left corner.'},
-  {src:'/images/home-rival-expansion.webp',width:1280,height:720,title:'Race rivals for the map',caption:'Red and lime exploration flags side by side on open ground, with lime buildings beyond and wheat fields below.',alt:'A red and a lime exploration flag next to each other inside their range circles, beside a lake. Lime buildings sit to the north and east, with a large wheat field to the south and forest on either side.'},
+  {src:'/images/home-thriving-colony.webp',width:1280,height:720,title:t('home.shot.0.title'),caption:t('home.shot.0.caption'),alt:t('home.shot.0.alt')},
+  {src:'/images/home-colony-defence.webp',width:1280,height:720,title:t('home.shot.1.title'),caption:t('home.shot.1.caption'),alt:t('home.shot.1.alt')},
+  {src:'/images/home-rival-expansion.webp',width:1280,height:720,title:t('home.shot.2.title'),caption:t('home.shot.2.caption'),alt:t('home.shot.2.alt')},
 ];
-const facts=['Free and open source','Plays in your browser','Growing since 2004'];
+const facts=[t('home.fact.0'),t('home.fact.1'),t('home.fact.2')];
 ---
 <div class:list={['home',{'colony':concept==='colony'}]}>
 <section class="hero" aria-labelledby="hero-title">
   <div class="hero-colony" aria-hidden="true">
     <video class="colony-video" data-src="/brand/colony-loop.mp4" poster="/brand/colony-1600.webp" muted loop playsinline preload="none" tabindex="-1"></video>
   </div>
-  <button class="colony-motion" type="button" hidden>❚❚ Pause the globs</button>
+  <button class="colony-motion" type="button" data-pause={t('home.pause')} data-resume={t('home.resume')} hidden>❚❚ {t('home.pause')}</button>
   <div class="hero-copy">
-    <p class="hero-logo"><span class="wordmark" role="img" aria-label={home.eyebrow}></span><span class="hero-online" aria-hidden="true">Online</span></p>
+    <p class="hero-logo"><span class="wordmark" role="img" aria-label={home.eyebrow}></span><span class="hero-online" aria-hidden="true">{t('ui.online')}</span></p>
     <h1 id="hero-title">{home.title}</h1>
     <p class="hero-description">{home.description}</p>
     <div class="actions">
       <a class="btn primary big" href={site.appUrl}>{home.playLabel} <span aria-hidden="true">↗</span></a>
-      <a class="btn big secondary" href="/downloads/">Download</a>
-      <a class="btn big ghost" href={home.firstSession.href}>Learn to play</a>
+      <a class="btn big secondary" href={localizedPath(locale,'downloads')}>{t('ui.download')}</a>
+      <a class="btn big ghost" href={home.firstSession.href}>{english(t('home.learn'))}</a>
     </div>
     <p class="hero-note">{home.playNote}</p>
   </div>
 </section>
-<ul class="facts" aria-label="At a glance">{facts.map(fact=><li>{fact}</li>)}</ul>
+<ul class="facts" aria-label={t('home.glance')}>{facts.map(fact=><li>{fact}</li>)}</ul>
 <section class="showcase" aria-labelledby="gameplay-title">
   <div class="showcase-head">
     <h2 id="gameplay-title">{home.gameplayTitle}</h2>
     <p>{home.gameplayDescription}</p>
   </div>
   <div class="shots">{shots.map((shot,i)=><figure class:list={['game-window',{"lead-shot":i===0}]}>
-    <a href={shot.src} aria-label={`View “${shot.title}” at full size`}><img src={shot.src} width={shot.width} height={shot.height} alt={shot.alt} loading="lazy"/></a>
+    <a href={shot.src} aria-label={t('home.fullImage',{title:shot.title})}><img src={shot.src} width={shot.width} height={shot.height} alt={shot.alt} loading="lazy"/></a>
     <figcaption><strong>{shot.title}.</strong> {shot.caption}</figcaption>
   </figure>)}</div>
-  <p class="shots-note">Screenshots from a four-colony match between computer players in the browser game, viewed in the replay viewer with fog of war turned off.</p>
+  <p class="shots-note">{t('home.shotsNote')}</p>
   <h3 class="decisions-title">{home.decisionsTitle}</h3>
   <ol class="decisions">{home.decisions.map((decision,i)=><li><img src={`/brand/${sprites[i]}.webp`} alt="" width="72" height="72" loading="lazy"/><h4>{decision.title}</h4><p>{decision.description}</p></li>)}</ol>
 </section>
-<section class="paths" aria-label="Ways to start">
-  <article class="path path-lead"><h2>{home.firstSession.title}</h2><p>{home.firstSession.description}</p><a class="btn primary" href={home.firstSession.href}>{home.firstSession.label} <span aria-hidden="true">→</span></a></article>
-  {home.playOptions.map(option=><article class="path"><h2>{option.title}</h2><p>{option.description}</p><a class="text-link" href={option.href}>{option.label} →</a></article>)}
-  <article class="path"><h2>Join our Discord</h2><p>{community.discordDescription}</p><a class="text-link" href={site.discordUrl}>Join the community server ↗</a></article>
+<section class="paths" aria-label={t('home.paths')}>
+  <article class="path path-lead"><h2>{home.firstSession.title}</h2><p>{home.firstSession.description}</p><a class="btn primary" href={home.firstSession.href}>{english(home.firstSession.label)} <span aria-hidden="true">→</span></a></article>
+  {home.playOptions.map(option=><article class="path"><h2>{option.title}</h2><p>{option.description}</p><a class="text-link" href={option.href==='/game/'?localizedPath(locale,'game'):option.href}>{option.label} →</a></article>)}
+  <article class="path"><h2>{t('home.discordTitle')}</h2><p>{community.discordDescription}</p><a class="text-link" href={site.discordUrl}>{t('home.discordLink')} ↗</a></article>
 </section>
-<section class="history" aria-labelledby="history-title"><h2 id="history-title">{home.background.title}</h2><p>{home.background.description}</p><a class="text-link" href={home.background.href}>{home.background.label} →</a></section>
-<section class="closing" aria-labelledby="closing-title"><h2 id="closing-title">{home.closing.title}</h2><p>{home.closing.description}</p><div class="actions"><a class="btn primary big" href={site.appUrl}>{home.closing.label} <span aria-hidden="true">↗</span></a><a class="btn secondary big" href="/downloads/">Download Globulation 2</a></div></section>
+<section class="history" aria-labelledby="history-title"><h2 id="history-title">{home.background.title}</h2><p>{home.background.description}</p><a class="text-link" href={home.background.href}>{english(home.background.label)} →</a></section>
+<section class="closing" aria-labelledby="closing-title"><h2 id="closing-title">{home.closing.title}</h2><p>{home.closing.description}</p><div class="actions"><a class="btn primary big" href={site.appUrl}>{home.closing.label} <span aria-hidden="true">↗</span></a><a class="btn secondary big" href={localizedPath(locale,'downloads')}>{t('footer.download')}</a></div></section>
 </div>
 
 <script>
@@ -57,6 +60,6 @@ import { mountColony } from '@glob2/design-system/colony';
 document.querySelectorAll<HTMLVideoElement>('.colony-video').forEach(video => {
  const hero = video.closest<HTMLElement>('.hero')!;
  const button = hero.querySelector<HTMLButtonElement>('.colony-motion')!;
- mountColony(video, button, {pause:'❚❚ Pause the globs',resume:'▶ Let the globs roam',container:hero,onPlaying:playing => video.classList.toggle('playing',playing)});
+ mountColony(video, button, {pause:`❚❚ ${button.dataset.pause}`,resume:`▶ ${button.dataset.resume}`,container:hero,onPlaying:playing => video.classList.toggle('playing',playing)});
 });
 </script>

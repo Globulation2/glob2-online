@@ -1,0 +1,16 @@
+{
+  "status": "reviewed",
+  "translator": "/root/website_translation_b",
+  "reviewer": "/root/website_review_b_latin",
+  "method": "Existing Google Cloud Translation draft with agent corrections and independent AI review; no human/native-speaker validation",
+  "reviewedAt": "2026-11-01",
+  "sourceHash": "69c3109f676976b1c91341050cd45528546af26f35ca5a8a0f289b5c666f401b",
+  "catalogHash": "9d6f0bb361829b12f36493e9b665741ceb0b28ad351a1d320bad8faf53aa2492",
+  "notes": [
+    "Independently compared all 194 fields against the frozen English source, covering marketing copy, gameplay explanations, community text, download instructions, navigation, accessibility controls and media descriptions.",
+    "Corrected globe/sphere drift to glob creature references, Mac build versus hardware model, install-step location, holding-ground/rival-map headings, source-code labels and Turkish case/possessive grammar. Reconciled native otel/yuva building names.",
+    "Verified key and placeholder parity and exact technical commands, executables and screenshot UI counters. Early-access, guest/ranked sign-in, browser-save and signing-key qualifications are preserved.",
+    "AI linguistic review only; no human/native-speaker validation. Language-specific editorial refinement may still benefit from native review.",
+    "Verified the exact Tutorial menu name against native [tutorial] and aligned the closing instruction."
+  ]
+}

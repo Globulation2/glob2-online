@@ -1,0 +1,31 @@
+{
+  "status": "reviewed",
+  "translator": "/root/website_translation_b",
+  "reviewer": "/root/website_review_b_latin; /root/website_review_b_latin (native Tutorial menu-label review)",
+  "method": "Existing Google Cloud Translation draft with agent corrections and independent AI review; no human/native-speaker validation",
+  "reviewedAt": "2026-11-01",
+  "sourceHash": "69c3109f676976b1c91341050cd45528546af26f35ca5a8a0f289b5c666f401b",
+  "catalogHash": "71dbe15e5475466f168a59301a752f126382930c66ea30404f74f08a1dd167eb",
+  "notes": [
+    "Independently compared all 194 fields against the frozen English source: marketing, gameplay, community, download instructions, navigation, accessible controls and media descriptions.",
+    "Corrected skip-to-content versus skipping content, source code versus origin, planting a colony versus developing it, holding territory, swarm-to-animal imagery and lake-adjacent/range-circle descriptions. Preserved panuluyan/pugad native building terms and aligned the selected tutorial item with native Pagsasanay. Corrected save/replay file meaning, current development tense and font attribution.",
+    "Verified complete keys/placeholders and exact executable command, file names and screenshot counters. Preserved early-access, guest/ranked sign-in, browser-save and signing-key qualifications.",
+    "AI linguistic review only; no human/native-speaker validation. Native editorial review can further refine idiom and terminology.",
+    "Supplementary native Tutorial menu-label review by /root/website_review_b_latin covered home.closing.description and downloads.browserDescription; original full-catalog reviewer provenance is retained."
+  ],
+  "supplementaryReviews": [
+    {
+      "reviewer": "/root/website_review_b_latin",
+      "reviewedAt": "2026-11-01",
+      "fields": [
+        "home.closing.description",
+        "downloads.browserDescription"
+      ],
+      "previousReviewer": "/root/website_review_b_latin",
+      "previousCatalogHash": "f40088b902f423c6d5a37eeea81e83cb00c1d263385145e3d470bf4ad35075ee",
+      "notes": [
+        "Compared the two Tutorial navigation instructions against the registered native game [tutorial] label. Corrected menu-name mismatches using natural grammatical inflection; retained all browser-save and backup qualifications. This is a targeted independent AI review, not a replacement for the original full-catalog review."
+      ]
+    }
+  ]
+}

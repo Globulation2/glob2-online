@@ -1,0 +1,15 @@
+{
+  "status": "reviewed",
+  "translator": "/root/website_translation_b",
+  "reviewer": "/root/website_review_b_latin",
+  "method": "Existing Google Cloud Translation draft with agent corrections and independent AI review; no human/native-speaker validation",
+  "reviewedAt": "2026-11-01",
+  "sourceHash": "69c3109f676976b1c91341050cd45528546af26f35ca5a8a0f289b5c666f401b",
+  "catalogHash": "13f735cf3114affd0774996a27d5b62a6c5c12e26b70e330b074c60c6b4a6816",
+  "notes": [
+    "Independently compared all 194 fields against the frozen English source: marketing, gameplay, community, download instructions, navigation, accessible controls and media descriptions.",
+    "Corrected keeping an inn supplied versus maintaining reservations, worker self-recovery versus healing others, compiling code versus constructing a repository, browser-game early access and ranked-play qualification. Reconciled хан/рояк building names, swarm captions and glob inflection; corrected source-code and font attribution labels.",
+    "Verified complete keys/placeholders and exact executable command, file names and screenshot counters. Preserved early-access, guest/ranked sign-in, browser-save and signing-key qualifications.",
+    "AI linguistic review only; no human/native-speaker validation. Native editorial review can further refine idiom and terminology."
+  ]
+}

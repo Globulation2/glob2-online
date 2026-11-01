@@ -1,0 +1,16 @@
+{
+  "status": "reviewed",
+  "translator": "/root/website_translation_b",
+  "reviewer": "/root/website_review_b_latin",
+  "method": "Existing Google Cloud Translation draft with agent corrections and independent AI review; no human/native-speaker validation",
+  "reviewedAt": "2026-11-01",
+  "sourceHash": "69c3109f676976b1c91341050cd45528546af26f35ca5a8a0f289b5c666f401b",
+  "catalogHash": "715d56678ea9502c8706a04fc46b81943a45c89fc799b7450fdcf6e19f910b9d",
+  "notes": [
+    "Independently compared all 194 fields against the frozen English source: marketing, gameplay, community, download instructions, navigation, accessible controls and media descriptions.",
+    "Corrected native їдальня/рій building names versus hotel/rhombus mistranslations, game tutorial versus printed manual, stopped-work guidance, browser-game early access, custom-game and community-server meaning. Preserved correct screenshot directions and production-store qualifications; corrected download-source and font attribution grammar.",
+    "Verified complete keys/placeholders and exact executable command, file names and screenshot counters.",
+    "AI linguistic review only; no human/native-speaker validation. Native editorial review can further refine idiom and terminology.",
+    "Verified the exact Tutorial menu name against native [tutorial] and aligned the closing instruction."
+  ]
+}

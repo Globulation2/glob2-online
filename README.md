@@ -58,6 +58,10 @@ See [article authoring and interaction](docs/article-experience.md) for the shar
 reading layouts, Markdown callouts/media groups, library integration and full
 article review matrix.
 
+## Marketing languages
+
+The four main marketing pages have static localized routes matching the game language roster. See [localization and review](docs/localization.md) for source catalogs, independent review fingerprints, English-only article boundaries and rendered validation.
+
 ## Integrations and operations
 
 See [hosting and rollback](docs/hosting.md), [content maintenance](docs/content.md), and [player-rating snapshot contract](scripts/RANKINGS.md). Public pages use no account cookies or analytics, and do not initiate gameplay. The rankings widget requests a sanitized public snapshot; it never queries account persistence or uses authenticated APIs.

@@ -1,0 +1,103 @@
+---
+
+import { localizedMarketing, translate, englishLabel, type Locale } from '../i18n';
+const {locale='en'}=Astro.props as {locale?:Locale};
+const {downloads}=localizedMarketing(locale);
+const t=(key:Parameters<typeof translate>[1], params:Record<string,string|number>={})=>translate(locale,key,params);
+const english=(label:string)=>englishLabel(locale,label);
+import Base from '../layouts/Base.astro';
+import PageHeading from '../components/PageHeading.astro';
+import { publishedReleaseMetadata, site } from '../data/site';
+import { channelsSchema, experimentalReleaseSchema } from '../data/downloads-schema';
+import experimentalData from '../data/experimental-release.json';
+import { downloadPlatforms as basePlatforms } from '../data/downloads';
+
+import channelData from '../data/download-channels.json';
+import type { DownloadPackage } from '../data/downloads-schema';
+const platforms=basePlatforms.map(platform=>({...platform,description:t(`platform.${platform.id}.description` as Parameters<typeof translate>[1]),help:t(`platform.${platform.id}.help` as Parameters<typeof translate>[1])}));
+const formatLabel=(format:string)=>t(`format.${format.replace('.','_')}` as Parameters<typeof translate>[1]);
+const qualifiedManifest = publishedReleaseMetadata.manifest;
+const manifest = qualifiedManifest ?? experimentalReleaseSchema.parse(experimentalData);
+const channels = channelsSchema.parse(channelData);
+if (channels.releaseTag && channels.releaseTag !== manifest?.tag) throw new Error('Reviewed channel updates must match the current release tag');
+const googlePlay = channels.withdrawnStores.includes('googlePlay') ? null : (channels.googlePlay ?? qualifiedManifest?.qualification.stores.googlePlay);
+const appStore = channels.withdrawnStores.includes('appStore') ? null : (channels.appStore ?? qualifiedManifest?.qualification.stores.appStore);
+const architectureLabel = (pkg: DownloadPackage) => pkg.platform === 'macos' ? (pkg.architecture === 'arm64' ? 'Apple Silicon' : 'Intel') : t(`architecture.${pkg.architecture}` as Parameters<typeof translate>[1]);
+const packagesFor = (platform: typeof platforms[number]) => (manifest?.packages ?? []).filter(pkg => pkg.platform === platform.id && !channels.withdrawnPackages.includes(pkg.filename)).sort((a, b) => platform.formats.indexOf(a.format) - platform.formats.indexOf(b.format) || (a.architecture === 'arm64' ? -1 : b.architecture === 'arm64' ? 1 : a.architecture.localeCompare(b.architecture)));
+const size = (bytes: number) => `${(bytes / 1024 / 1024).toFixed(1)} MiB`;
+const technicalLiterals = ['sudo snap install --dangerous ./PACKAGE.snap', 'INSTALL.txt', 'glob2.exe'];
+const installationParts = (text: string) => text.split(/(sudo snap install --dangerous \.\/PACKAGE\.snap|INSTALL\.txt|glob2\.exe)/);
+---
+<Base locale={locale} title={t('ui.downloads')} description={downloads.description}>
+  <div class="page-shell">
+    <PageHeading eyebrow={t('ui.downloads')} title={downloads.title} description={downloads.description} />
+    <section class="card download-browser" aria-labelledby="browser-heading">
+      <div><p class="eyebrow">{t('downloads.noInstallation')}</p><h2 id="browser-heading">{downloads.browserTitle}</h2><p>{downloads.browserDescription}</p></div>
+      <a class="btn" href={site.appUrl}>{downloads.browserLabel} ↗</a>
+    </section>
+    <section class="download-release section-space" aria-labelledby="release-heading">
+      <h2 id="release-heading">{t('downloads.release',{version:manifest.version})}</h2>
+      <p>{t('downloads.choose')} <a href={manifest.releaseNotesUrl}>{t('downloads.releaseNotes')} ↗</a></p>
+      <p>{t('downloads.problem')} <a href={`${site.sourceUrl}/issues`}>{t('downloads.report')} ↗</a></p>
+    </section>
+    <div class="two-grid download-platforms">
+      {platforms.map(platform => {
+        const packages = packagesFor(platform);
+        return <section class="card download-platform" aria-labelledby={`${platform.id}-heading`}>
+          <h2 id={`${platform.id}-heading`}>{platform.title}</h2>
+          {packages.length ? <>
+            <p>{platform.id === 'android' && !googlePlay ? t('downloads.apk') : platform.description}</p>
+            {platform.id === 'android' && googlePlay && <a class="btn" href={googlePlay.url}>{t('downloads.googlePlay')} ↗</a>}
+            <ul class="download-packages">
+              {packages.map((pkg, index) => <li>
+                <h3>{formatLabel(pkg.format)} · {architectureLabel(pkg)}</h3>
+                <p class="download-meta">{t('downloads.version',{version:manifest!.version,size:size(pkg.sizeBytes)})}<br />{t('downloads.requires',{os:pkg.minimumOs})}</p>
+                <a class={index === 0 ? 'btn primary' : 'text-link'} href={pkg.url}>{t('downloads.package',{platform:platform.title,format:formatLabel(pkg.format),architecture:architectureLabel(pkg)})} ↗</a>
+                {pkg.dependencies?.length && <p class="download-meta">{t('downloads.dependencies',{dependencies:pkg.dependencies.join(', ')})}</p>}
+                {pkg.format === 'flatpak' && <details class="download-help download-flatpak">
+                  <summary>{t('downloads.flatpakTitle')}</summary>
+                  <ol>
+                    <li>{t('downloads.flatpakSetupSentence',{setup:'{setup}'}).split('{setup}').map((part,index)=><>{index>0&&<a href="https://flatpak.org/setup/">{t('downloads.flatpakSetup')} ↗</a>}{part}</>)}</li>
+                    <li>{t('downloads.flatpakTerminal')}
+                      <pre><code dir="ltr">{`flatpak install --user ./${pkg.filename}\nflatpak run --user org.globulation2.Globulation2`}</code></pre>
+                    </li>
+                  </ol>
+                  <p>{t('downloads.flatpakRuntime')}</p>
+                  <p>{t('downloads.flatpakUpdate')}</p>
+                </details>}
+                <details class="download-checksum"><summary>SHA-256 · {formatLabel(pkg.format)} · {architectureLabel(pkg)}</summary><code dir="ltr">{pkg.sha256}</code></details>
+              </li>)}
+            </ul>
+            <details class="download-help"><summary>{t('downloads.install',{platform:platform.title})}</summary><p>{installationParts(platform.help).map(part=>technicalLiterals.includes(part)?<code dir="ltr">{part}</code>:part)}</p></details>
+          </> : <p class="download-unavailable">{t('downloads.unavailable',{platform:platform.title})}</p>}
+        </section>;
+      })}
+      <section class="card download-platform" aria-labelledby="ios-heading">
+        <h2 id="ios-heading">iPhone &amp; iPad</h2>
+        {appStore ? <><p>{t('downloads.iosDescription')}</p><a class="btn" href={appStore.url}>{t('downloads.appStore')} ↗</a></> : <p class="download-unavailable">{t('downloads.iosUnavailable')}</p>}
+      </section>
+      <section class="card download-platform" aria-labelledby="source-heading">
+        <h2 id="source-heading">{t('downloads.sourceTitle')}</h2><p>{downloads.sourceDescription}</p><a class="text-link" href={site.sourceUrl}>{t('downloads.browseSource')} ↗</a><p class="download-meta"><a href="https://github.com/Globulation2/glob2/releases">{t('downloads.checkReleases')} ↗</a></p>
+        {manifest && <ul class="download-packages">{manifest.sources.map(source => <li><a href={source.url}>{t('downloads.sourceArchive',{size:size(source.sizeBytes)})} ↗</a><details class="download-checksum"><summary>{t('downloads.sourceChecksum')}</summary><code dir="ltr">{source.sha256}</code></details></li>)}</ul>}
+      </section>
+    </div>
+    <section class="prose section-space"><h2>{downloads.helpTitle}</h2><p>{downloads.helpDescription}</p><a href="/learn/getting-started/">{english(t('downloads.guide'))} →</a></section>
+  </div>
+</Base>
+<style>
+  .download-browser {display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--sp-5);}
+  .download-platforms {align-items: stretch;}
+  .download-platform {min-width: 0;}
+  .download-packages {list-style: none; padding: 0; margin: var(--sp-5) 0;}
+  .download-packages li + li {border-top: 1px solid var(--line); padding-top: var(--sp-5); margin-top: var(--sp-5);}
+  .download-packages h3 {font-size: 1.15rem;}
+  .download-meta {font-size: var(--text-sm); color: var(--ink-2); margin: var(--sp-3) 0;}
+  .download-checksum {margin-top: var(--sp-3);}
+  summary {cursor: pointer; min-height: var(--target); padding: var(--sp-2) 0; text-decoration: underline; text-underline-offset: 3px;}
+  .download-checksum code {display: block; overflow-wrap: anywhere; margin: var(--sp-2) 0;}
+  .download-help p {margin: var(--sp-3) 0 0;}
+  .download-flatpak ol {padding-inline-start: var(--sp-5);}
+  .download-flatpak li + li {border: 0; padding-top: 0; margin-top: var(--sp-3);}
+  .download-flatpak pre {white-space: pre-wrap; overflow-wrap: anywhere; margin: var(--sp-3) 0;}
+  .download-unavailable {color: var(--ink-2);}
+</style>

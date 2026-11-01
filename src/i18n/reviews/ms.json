@@ -1,0 +1,15 @@
+{
+  "status": "reviewed",
+  "translator": "/root/website_translation_b",
+  "reviewer": "/root/website_review_b_latin",
+  "method": "Existing Google Cloud Translation draft with agent corrections and independent AI review; no human/native-speaker validation",
+  "reviewedAt": "2026-11-01",
+  "sourceHash": "69c3109f676976b1c91341050cd45528546af26f35ca5a8a0f289b5c666f401b",
+  "catalogHash": "57c6fa05044ab50a4bad5ceae480c0fad509bf2f85ee95d554a54678ddccbf2f",
+  "notes": [
+    "Independently compared all 194 fields against the frozen English source: marketing, gameplay, community, download instructions, navigation, accessible controls and media descriptions.",
+    "Corrected holding territory versus staying on track, rival-map imperative, force versus violence, save/replay files versus save action, worker self-recovery, runtime environment and portable edition wording. Reconciled native penginapan/sarang building terms, sign-in labels and precise signing-key qualification.",
+    "Verified complete keys/placeholders and exact executable command, file names and screenshot counters. Preserved early-access, guest/ranked sign-in, browser-save and signing-key qualifications.",
+    "AI linguistic review only; no human/native-speaker validation. Native editorial review can further refine idiom and terminology."
+  ]
+}

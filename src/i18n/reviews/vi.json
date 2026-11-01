@@ -1,0 +1,15 @@
+{
+  "status": "reviewed",
+  "translator": "/root/website_translation_b",
+  "reviewer": "/root/website_review_b_latin",
+  "method": "Existing Google Cloud Translation draft with agent corrections and independent AI review; no human/native-speaker validation",
+  "reviewedAt": "2026-11-01",
+  "sourceHash": "69c3109f676976b1c91341050cd45528546af26f35ca5a8a0f289b5c666f401b",
+  "catalogHash": "ec6345f0a412e9cd11dc006f0abb28947d7d84d9b3619cec2c7764d250b82489",
+  "notes": [
+    "Independently compared all 194 fields against the frozen English source: marketing, gameplay, community, download instructions, navigation, accessible controls and media descriptions.",
+    "Corrected colony-to-livestock drift, national flags versus game orders, hostile pronoun register, inn/swarm building captions, Wikipedia versus original wiki, tutorial versus classroom cooking, portable ZIP versus mobile edition and software releases versus press releases. Preserved native quán trọ/tổ building vocabulary and restored exact savefile and store-release qualifications.",
+    "Verified complete keys/placeholders and exact executable command, file names and screenshot counters. Preserved early-access, guest/ranked sign-in, browser-save and signing-key qualifications.",
+    "AI linguistic review only; no human/native-speaker validation. Native editorial review can further refine idiom and terminology."
+  ]
+}

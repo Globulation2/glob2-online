@@ -6,13 +6,21 @@ import '@glob2/design-system/css/components.css';
 import '@glob2/design-system/css/brand.css';
 import '../styles/site.css';
 import {site} from '../data/site';
-interface Props {title:string; description?:string; category?:string; noindex?:boolean}
-const {title,description=site.tagline,category,noindex=false}=Astro.props;
+import {locales, localizedPath, marketingPage, translate, englishLabel, type Locale} from '../i18n';
+interface Props {title:string; description?:string; category?:string; noindex?:boolean; locale?:Locale}
+const {title,description:providedDescription,category,noindex=false,locale='en'}=Astro.props;
+const t=(key:Parameters<typeof translate>[1],params:Record<string,string|number>={})=>translate(locale,key,params);
+const description=providedDescription??t('site.tagline');
+const english=(label:string)=>englishLabel(locale,label);
+const page=marketingPage(Astro.url.pathname);
+const direction=locales.find(item=>item.code===locale)!.dir;
+const alternatePage=page??'';
+const current=(target:string)=>Astro.url.pathname===target||(target==='/learn/'&&Astro.url.pathname.startsWith(target))?'page':undefined;
 const pageTitle=title===site.name?site.name:`${title} · ${site.name}`;
-const nav=[['The game','/game/'],['Learn','/learn/'],['Community','/community/']];
+const nav=[[t('ui.game'),localizedPath(locale,'game')],[english(t('ui.learn')),'/learn/'],[t('ui.community'),localizedPath(locale,'community')]];
 ---
 <!doctype html>
-<html lang="en">
+<html lang={locale} dir={direction}>
 <head>
 <meta charset="utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -21,6 +29,7 @@ const nav=[['The game','/game/'],['Learn','/learn/'],['Community','/community/']
 <title>{pageTitle}</title>
 <meta name="description" content={description}/>
 <link rel="canonical" href={new URL(Astro.url.pathname,Astro.site)}/>
+{page!==undefined&&<>{locales.map(item=><link rel="alternate" hreflang={item.code} href={new URL(localizedPath(item.code,alternatePage),Astro.site)}/>)}<link rel="alternate" hreflang="x-default" href={new URL(localizedPath('en',alternatePage),Astro.site)}/></>}
 <link rel="icon" href="/favicon-32.png" type="image/png"/>
 <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
 <link rel="preload" href="/brand/glob2-sans.woff2" as="font" type="font/woff2" crossorigin/>
@@ -33,25 +42,31 @@ const nav=[['The game','/game/'],['Learn','/learn/'],['Community','/community/']
 {noindex&&<meta name="robots" content="noindex"/>}
 </head>
 <body class="g2-ui">
-<a class="skip-link" href="#main" tabindex="0">Skip to content</a>
+<a class="skip-link" href="#main" tabindex="0">{t('ui.skip')}</a>
 <div class="world-band" aria-hidden="true"></div>
 <header class="site-header" data-pagefind-ignore>
   <div class="wrap">
-    <a class="brand" href="/" aria-label={`${site.name} home`}>
+    <a class="brand" href={localizedPath(locale)} aria-label={t('ui.home',{name:site.name})}>
       <img src="/brand/glob-64.png" width="34" height="34" alt=""/>
       <span class="wordmark" aria-hidden="true"></span>
-      <span class="brand-online" aria-hidden="true">Online</span>
+      <span class="brand-online" aria-hidden="true">{t('ui.online')}</span>
     </a>
-    <nav class="nav" aria-label="Main navigation">
-      <a class="nav-download" href="/downloads/" aria-current={Astro.url.pathname.startsWith('/downloads/')?'page':undefined}>Download</a>
-      {nav.map(([label,url])=><a href={url} aria-current={Astro.url.pathname.startsWith(url)?'page':undefined}>{label}</a>)}
-      <a href="/search/" aria-current={Astro.url.pathname.startsWith('/search/')?'page':undefined}>Search</a>
+    <nav class="nav" aria-label={t('ui.mainNavigation')}>
+      <a class="nav-download" href={localizedPath(locale,'downloads')} aria-current={current(localizedPath(locale,'downloads'))}>{t('ui.download')}</a>
+      {nav.map(([label,url])=><a href={url} aria-current={current(url)}>{label}</a>)}
+      <a href="/search/" aria-current={Astro.url.pathname.startsWith('/search/')?'page':undefined}>{english(t('ui.search'))}</a>
       <a href={site.discordUrl}>Discord <span aria-hidden="true">↗</span></a>
     </nav>
     <div class="header-end">
-      <button class="theme-toggle" type="button" id="theme-toggle" aria-label="Theme: same as this device. Change theme">Theme</button>
-      <a class="header-signin" href={site.loginUrl}>Sign in</a>
-      <a class="header-play btn primary" href={site.appUrl}>Play <span aria-hidden="true">↗</span></a>
+      <details class="language-picker">
+        <summary aria-label={t('ui.chooseLanguage')}>{t('ui.language')}</summary>
+        <nav class="language-options" aria-label={t('ui.chooseLanguage')}>
+          {locales.map(item=><a href={localizedPath(item.code,alternatePage)} lang={item.code} dir={item.dir} hreflang={item.code} aria-current={item.code===locale?'true':undefined}>{item.name}</a>)}
+        </nav>
+      </details>
+      <button class="theme-toggle" type="button" id="theme-toggle" aria-label={t('ui.themeInitial')} data-system={t('ui.themeSystem')} data-light={t('ui.themeLight')} data-dark={t('ui.themeDark')} data-change={t('ui.changeTheme')}>{t('ui.theme')}</button>
+      <a class="header-signin" href={site.loginUrl}>{t('ui.signin')}</a>
+      <a class="header-play btn primary" href={site.appUrl}>{t('ui.play')} <span aria-hidden="true">↗</span></a>
     </div>
   </div>
 </header>
@@ -60,48 +75,49 @@ const nav=[['The game','/game/'],['Learn','/learn/'],['Community','/community/']
   <div class="decor" aria-hidden="true"><img src="/brand/wood.webp" width="56" height="56" alt=""/><img src="/brand/fruit.webp" width="40" height="40" alt=""/><img src="/brand/wood.webp" width="44" height="44" alt=""/></div>
   <div class="wrap">
     <div>
-      <a class="brand-plain" href="/" aria-label={`${site.name} home`}><span class="wordmark" aria-hidden="true"></span></a>
-      <p>A free, open-source<br/>real-time strategy game.</p>
-      <a class="btn primary" href="/downloads/">Download Globulation 2</a>
+      <a class="brand-plain" href={localizedPath(locale)} aria-label={t('ui.home',{name:site.name})}><span class="wordmark" aria-hidden="true"></span></a>
+      <p>{t('footer.tagline')}</p>
+      <a class="btn primary" href={localizedPath(locale,'downloads')}>{t('footer.download')}</a>
     </div>
-    <nav aria-label="Explore">
-      <h2>Explore</h2>
+    <nav aria-label={t('footer.explore')}>
+      <h2>{t('footer.explore')}</h2>
       <ul>
-        <li><a href="/downloads/">Downloads</a></li>
-        <li><a href="/learn/">Player guides</a></li>
-        <li><a href="/competition/">Competition</a></li>
-        <li><a href="/news/">News</a></li>
-        <li><a href="/history/">Our history</a></li>
-        <li><a href="/archive/">Legacy archive</a></li>
-        <li><a href="/privacy/">Privacy</a></li>
-        <li><a href="/terms/">Terms and conditions</a></li>
+        <li><a href={localizedPath(locale,'downloads')}>{t('ui.downloads')}</a></li>
+        <li><a href="/learn/">{english(t('footer.guides'))}</a></li>
+        <li><a href="/competition/">{english(t('footer.competition'))}</a></li>
+        <li><a href="/news/">{english(t('footer.news'))}</a></li>
+        <li><a href="/history/">{english(t('footer.history'))}</a></li>
+        <li><a href="/archive/">{english(t('footer.archive'))}</a></li>
+        <li><a href="/privacy/">{english(t('footer.privacy'))}</a></li>
+        <li><a href="/terms/">{english(t('footer.terms'))}</a></li>
       </ul>
     </nav>
-    <nav aria-label="Play online">
-      <h2>Play online</h2>
+    <nav aria-label={t('footer.playOnline')}>
+      <h2>{t('footer.playOnline')}</h2>
       <ul>
-        <li><a href={site.appUrl}>Play in browser ↗</a></li>
-        <li><a href={site.leaderboardUrl}>Leaderboards ↗</a></li>
-        <li><a href={site.matchesUrl}>Matches ↗</a></li>
-        <li><a href={site.mapsUrl}>Maps ↗</a></li>
-        <li><a href={site.loginUrl}>Sign in for ranked play ↗</a></li>
+        <li><a href={site.appUrl}>{t('footer.browser')} ↗</a></li>
+        <li><a href={site.leaderboardUrl}>{t('footer.leaderboards')} ↗</a></li>
+        <li><a href={site.matchesUrl}>{t('footer.matches')} ↗</a></li>
+        <li><a href={site.mapsUrl}>{t('footer.maps')} ↗</a></li>
+        <li><a href={site.loginUrl}>{t('footer.ranked')} ↗</a></li>
       </ul>
     </nav>
-    <nav aria-label="Get involved">
-      <h2>Get involved</h2>
+    <nav aria-label={t('footer.involved')}>
+      <h2>{t('footer.involved')}</h2>
       <ul>
-        <li><a href={site.sourceUrl}>Source &amp; contributions ↗</a></li>
-        <li><a href="/community/">Community</a></li>
-        <li><a href={site.discordUrl}>Join our Discord ↗</a></li>
-        <li><a href="/credits/">Credits &amp; sources</a></li>
+        <li><a href={site.sourceUrl}>{t('footer.source')} ↗</a></li>
+        <li><a href={localizedPath(locale,'community')}>{t('ui.community')}</a></li>
+        <li><a href={site.discordUrl}>{t('footer.discord')} ↗</a></li>
+        <li><a href="/credits/">{english(t('footer.credits'))}</a></li>
       </ul>
     </nav>
-    <p class="footer-note">Free software, built by a community. The pictures, fonts and logo come from the Globulation 2 game itself (GPL&nbsp;3; fonts: DejaVu-based Glob2 Sans and Nunito, SIL OFL).</p>
+    <p class="footer-note">{t('footer.note')}</p>
   </div>
 </footer>
 <script>
 import { mountThemeToggle } from '@glob2/design-system';
-mountThemeToggle(document.querySelector<HTMLButtonElement>('#theme-toggle')!, {system:'Theme: device',light:'Theme: Meadow',dark:'Theme: Night colony',change:'Change theme'});
+const button=document.querySelector<HTMLButtonElement>('#theme-toggle')!;
+mountThemeToggle(button,{system:button.dataset.system!,light:button.dataset.light!,dark:button.dataset.dark!,change:button.dataset.change!});
 </script>
 </body>
 </html>

@@ -1,0 +1,15 @@
+{
+  "status": "reviewed",
+  "translator": "/root/website_translation_b",
+  "reviewer": "/root/website_review_b_latin",
+  "method": "Existing Google Cloud Translation draft with agent corrections and independent AI review; no human/native-speaker validation",
+  "reviewedAt": "2026-11-01",
+  "sourceHash": "69c3109f676976b1c91341050cd45528546af26f35ca5a8a0f289b5c666f401b",
+  "catalogHash": "d1c7412b5b154b93d1036006626fffcfd0a7bba16056b24a9e61cad97a88bd17",
+  "notes": [
+    "Independently compared all 194 fields against the frozen English source: marketing, gameplay, community, download instructions, navigation, accessible controls and media descriptions.",
+    "Corrected instruction orders versus purchases, holding territory versus personal convictions, save/replay files versus actions, Mac build versus configuration, inn food supply and technical source labels. Preserved native penginapan/sarang building names and all release, save and signing qualifications.",
+    "Verified complete keys/placeholders and exact executable command, file names and screenshot counters.",
+    "AI linguistic review only; no human/native-speaker validation. Native editorial review can further refine idiom and terminology."
+  ]
+}

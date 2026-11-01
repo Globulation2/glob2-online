@@ -1,0 +1,16 @@
+{
+  "status": "reviewed",
+  "translator": "/root/website_translation_b",
+  "reviewer": "/root/website_review_b_latin",
+  "method": "Existing Google Cloud Translation draft with agent corrections and independent AI review; no human/native-speaker validation",
+  "reviewedAt": "2026-11-01",
+  "sourceHash": "69c3109f676976b1c91341050cd45528546af26f35ca5a8a0f289b5c666f401b",
+  "catalogHash": "f7c0ba8e8bba73f117964bbbcac5861464218fecd0d4e5000830e93ef4e595ec",
+  "notes": [
+    "Independently compared all 194 fields against the frozen English source: marketing, gameplay, community, download instructions, navigation, accessible controls and media descriptions.",
+    "Corrected worker recovery versus physician/healing action, portable ZIP versus laptop, installer versus tradesperson, runtime environment versus elapsed runtime, four-colony match wording and military recuperation. Reconciled vertshus/sverm buildings and polished game-control, store and source-code labels.",
+    "Verified complete keys/placeholders and exact executable command, file names and screenshot counters. Preserved early-access, guest/ranked sign-in, browser-save and signing-key qualifications.",
+    "AI linguistic review only; no human/native-speaker validation. Native editorial review can further refine idiom and terminology.",
+    "Verified the exact Tutorial menu name against native [tutorial] and aligned the closing instruction."
+  ]
+}

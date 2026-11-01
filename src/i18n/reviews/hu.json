@@ -1,0 +1,31 @@
+{
+  "status": "reviewed",
+  "translator": "/root/website_plan",
+  "reviewer": "/root/website_translation_b; /root/website_review_b_latin (native Tutorial menu-label review)",
+  "method": "Existing Google Cloud Translation draft with agent corrections and independent AI review; no human/native-speaker validation",
+  "reviewedAt": "2026-11-01",
+  "sourceHash": "69c3109f676976b1c91341050cd45528546af26f35ca5a8a0f289b5c666f401b",
+  "catalogHash": "a2034d3d1a9c953324664def4b9ec4dd29a4e16bbe125a3ee26207265b5a9bf9",
+  "notes": [
+    "Independently compared the 194-field catalog with the frozen English marketing source, including navigation, accessibility controls, download instructions and screenshots.",
+    "Corrected semantic drift where present: lime colour versus stone/tree, game tutorial versus video/music, installation archive vocabulary, indirect-control role descriptions, creature needs and screenshot details.",
+    "Preserved early-access, guest/ranked sign-in and browser-save qualifications; verified every key, placeholder, protected brand, executable command and literal screenshot counter. Native game building terminology was reconciled where available.",
+    "AI review only; no human/native-speaker validation or deployment is established by this record.",
+    "Supplementary native Tutorial menu-label review by /root/website_review_b_latin covered home.closing.description and downloads.browserDescription; original full-catalog reviewer provenance is retained."
+  ],
+  "supplementaryReviews": [
+    {
+      "reviewer": "/root/website_review_b_latin",
+      "reviewedAt": "2026-11-01",
+      "fields": [
+        "home.closing.description",
+        "downloads.browserDescription"
+      ],
+      "previousReviewer": "/root/website_translation_b",
+      "previousCatalogHash": "aa1f0a36521eb8abf95b7ff422cbef3ca278c1a4011c43f956d3b51ec7613f9c",
+      "notes": [
+        "Compared the two Tutorial navigation instructions against the registered native game [tutorial] label. Corrected menu-name mismatches using natural grammatical inflection; retained all browser-save and backup qualifications. This is a targeted independent AI review, not a replacement for the original full-catalog review."
+      ]
+    }
+  ]
+}
