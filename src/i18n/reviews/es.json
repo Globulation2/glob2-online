@@ -1,0 +1,16 @@
+{
+  "status": "reviewed",
+  "translator": "/root/website_plan",
+  "reviewer": "/root/website_localization_audit",
+  "method": "Cloud Translation draft with translator corrections followed by independent AI linguistic review; not human/native-speaker validation",
+  "reviewedAt": "2026-11-01",
+  "sourceHash": "69c3109f676976b1c91341050cd45528546af26f35ca5a8a0f289b5c666f401b",
+  "catalogHash": "c3755c97babd46e727837f2da9e6665abcabd7f56487184deae1388daab2c94f",
+  "notes": [
+    "Compared all194 fields with English for meaning, colony/economy emphasis, indirect control, worker needs, guest/ranked access, early-access qualifications, profile-local saves, release/store availability and installation requirements.",
+    "Corrected misleading machine senses including installer-as-person, tarball, media playback, music play, lime-colored buildings, range circles and campaign/work-stoppage wording where applicable.",
+    "Cross-checked inn/swarm building references against current native game labels; preserved protected brand names, executable names, installer commands and actual English screenshot counters.",
+    "Preserved placeholder placement without HTML, existing product/artifact boundaries, signing-key uninstall and backup requirements, and no automatic updates for direct bundles.",
+    "No human/native-speaker validation or public deployment is claimed."
+  ]
+}

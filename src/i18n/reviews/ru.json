@@ -1,0 +1,15 @@
+{
+  "status": "reviewed",
+  "translator": "/root/website_plan",
+  "reviewer": "/root/website_translation_b",
+  "method": "Existing Google Cloud Translation draft with agent corrections and independent AI review; no human/native-speaker validation",
+  "reviewedAt": "2026-11-01",
+  "sourceHash": "69c3109f676976b1c91341050cd45528546af26f35ca5a8a0f289b5c666f401b",
+  "catalogHash": "51783c8a152e4e81b1d9f1340f1eb5020d0573b032bfd3959517861571304522",
+  "notes": [
+    "Independently compared the 194-field catalog with the frozen English marketing source, including navigation, accessibility controls, download instructions and screenshots.",
+    "Corrected semantic drift where present: lime colour versus stone/tree, game tutorial versus video/music, installation archive vocabulary, indirect-control role descriptions, creature needs and screenshot details.",
+    "Preserved early-access, guest/ranked sign-in and browser-save qualifications; verified every key, placeholder, protected brand, executable command and literal screenshot counter. Native game building terminology was reconciled where available.",
+    "AI review only; no human/native-speaker validation or deployment is established by this record."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "status": "reviewed",
+  "translator": "/root/website_translation_b",
+  "reviewer": "/root/website_review_b_latin",
+  "method": "Existing Google Cloud Translation draft with agent corrections and independent AI review; no human/native-speaker validation",
+  "reviewedAt": "2026-11-01",
+  "sourceHash": "69c3109f676976b1c91341050cd45528546af26f35ca5a8a0f289b5c666f401b",
+  "catalogHash": "7ad315f9e3608292ca9c96e78fba43ef9733a2e0cfe7a573921e1779f6834f3a",
+  "notes": [
+    "Independently compared all 194 fields against the frozen English source: marketing, gameplay, community, download instructions, navigation, accessible controls and media descriptions.",
+    "Corrected healing others versus worker recovery, compile/build instructions versus warehouse construction, runtime environment versus elapsed time, install snapd versus update, ranked versus merely listed games, and screenshot colony/swarm/color/direction descriptions. Reconciled nyumba ya wageni/kiota building terms and repaired class agreement and source-code labels.",
+    "Verified complete keys/placeholders and exact executable command, file names and screenshot counters. Preserved early-access, guest/ranked sign-in, browser-save and signing-key qualifications.",
+    "AI linguistic review only; no human/native-speaker validation. Native editorial review can further refine idiom and terminology."
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "status": "reviewed",
+  "translator": "/root/website_translation_b",
+  "reviewer": "/root/website_review_b_latin; /root/website_review_b_latin (native Tutorial menu-label review)",
+  "method": "Existing Google Cloud Translation draft with agent corrections and independent AI review; no human/native-speaker validation",
+  "reviewedAt": "2026-11-01",
+  "sourceHash": "69c3109f676976b1c91341050cd45528546af26f35ca5a8a0f289b5c666f401b",
+  "catalogHash": "0765d4c382eaa08b21d7ad4e934ca73e68a3d0191d72bc4afd77b768d48295ba",
+  "notes": [
+    "Independently compared all 194 fields against the frozen English source, covering marketing copy, gameplay explanations, community text, download instructions, navigation, accessibility controls and media descriptions.",
+    "Corrected stopped-work guidance, worker recovery, software build instructions, Google Play/App Store source wording, executable installation steps and installer/portable archive labels. Reconciled majatalo/pesä with native game building labels and polished Finnish inflection.",
+    "Verified key and placeholder parity and exact technical commands, executables and screenshot UI counters. Early-access, guest/ranked sign-in, browser-save and signing-key qualifications are preserved.",
+    "AI linguistic review only; no human/native-speaker validation. Language-specific editorial refinement may still benefit from native review.",
+    "Verified the exact Tutorial menu name against native [tutorial] and aligned the closing instruction.",
+    "Supplementary native Tutorial menu-label review by /root/website_review_b_latin covered home.closing.description and downloads.browserDescription; original full-catalog reviewer provenance is retained."
+  ],
+  "supplementaryReviews": [
+    {
+      "reviewer": "/root/website_review_b_latin",
+      "reviewedAt": "2026-11-01",
+      "fields": [
+        "home.closing.description",
+        "downloads.browserDescription"
+      ],
+      "previousReviewer": "/root/website_review_b_latin",
+      "previousCatalogHash": "ce61349b0be9537e5a593412b845c06b7cd6275a9575e6e744a8480976f28219",
+      "notes": [
+        "Compared the two Tutorial navigation instructions against the registered native game [tutorial] label. Corrected menu-name mismatches using natural grammatical inflection; retained all browser-save and backup qualifications. This is a targeted independent AI review, not a replacement for the original full-catalog review."
+      ]
+    }
+  ]
+}

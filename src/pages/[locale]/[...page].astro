@@ -1,0 +1,12 @@
+---
+import Base from '../../layouts/Base.astro';
+import Home from '../../components/Home.astro';
+import Game from '../../components/MarketingGame.astro';
+import Downloads from '../../components/MarketingDownloads.astro';
+import Community from '../../components/MarketingCommunity.astro';
+import {locales,marketingPages,type Locale,type MarketingPage} from '../../i18n';
+import {site} from '../../data/site';
+export function getStaticPaths(){return locales.filter(item=>item.code!=='en').flatMap(item=>marketingPages.map(page=>({params:{locale:item.code,page:page||undefined},props:{locale:item.code,page}})));}
+const {locale,page}=Astro.props as {locale:Locale;page:MarketingPage};
+---
+{page===''?<Base locale={locale} title={site.name}><Home locale={locale}/></Base>:page==='game'?<Game locale={locale}/>:page==='downloads'?<Downloads locale={locale}/>:<Community locale={locale}/>}

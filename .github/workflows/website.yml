@@ -26,7 +26,7 @@ jobs:
       - run: npm ci
       - run: npm run design:sync
       - run: npm run check && npm run build && node scripts/check-links.mjs
-      - run: node --test scripts/test_monitor.mjs scripts/test_downloads.mjs scripts/test_experimental_downloads.mjs scripts/test_guide_media.mjs scripts/test_article_directives.mjs scripts/test_legal_sync.mjs
+      - run: node --test scripts/test_monitor.mjs scripts/test_downloads.mjs scripts/test_experimental_downloads.mjs scripts/test_guide_media.mjs scripts/test_article_directives.mjs scripts/test_legal_sync.mjs scripts/test_i18n.mjs
       - run: python3 -m unittest discover -s scripts -p 'test_*.py' -v
       - name: Install browser dependencies
         run: |

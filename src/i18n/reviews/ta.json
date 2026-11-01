@@ -1,0 +1,14 @@
+{
+  "status": "reviewed",
+  "translator": "/root/website_translation_b",
+  "reviewer": "/root/website_final_integration",
+  "method": "Existing Google Cloud Translation draft with agent corrections and independent AI review; no human/native-speaker validation",
+  "reviewedAt": "2026-11-01",
+  "sourceHash": "69c3109f676976b1c91341050cd45528546af26f35ca5a8a0f289b5c666f401b",
+  "catalogHash": "a9681fcf8dec8cba5e7bdbff1349727cfbcc9b13a5ea1e299f8940a1b219d11d",
+  "notes": [
+    "Independently compared all 194 fields with English, including indirect-control gameplay, economy, account/early-access and browser-save cautions, complete installation guidance and shared/accessibility/media UI.",
+    "Aligned food and swarm structures with native game உணவகம்/கூடு and explorers with சாரணர்கள். Corrected political-campaign and bank-cheque mistranslations, military-squad/colony confusion, imperative role descriptions, missing screenshot colors and limestone interpretation of lime green, and source/store labels.",
+    "Preserved exact product name, technical commands, filenames, screenshot counters and all placeholders. Tamil AI linguistic review does not establish human or native-speaker validation; native editorial refinement remains possible."
+  ]
+}

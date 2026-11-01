@@ -8,12 +8,13 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "check": "astro check",
-    "build": "astro build && node scripts/stage-guide-media.mjs && pagefind --site dist",
+    "check": "node scripts/check-i18n.mjs && astro check",
+    "build": "astro build && node scripts/stage-guide-media.mjs && pagefind --site dist && node scripts/check-i18n.mjs --built",
     "preview": "astro preview",
     "test": "playwright test",
     "check:media": "node --test scripts/test_guide_media.mjs scripts/test_article_directives.mjs",
-    "design:sync": "node scripts/design-system.mjs"
+    "design:sync": "node scripts/design-system.mjs",
+    "check:i18n": "node scripts/check-i18n.mjs"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "7.3.2",

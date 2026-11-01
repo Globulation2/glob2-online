@@ -1,0 +1,33 @@
+{
+  "status": "reviewed",
+  "translator": "/root/website_translation_b",
+  "reviewer": "/root/website_review_b_asian; /root/website_review_b_latin (native Tutorial menu-label review)",
+  "method": "Existing Google Cloud Translation draft with agent corrections and independent AI review; no human/native-speaker validation",
+  "reviewedAt": "2026-11-01",
+  "sourceHash": "69c3109f676976b1c91341050cd45528546af26f35ca5a8a0f289b5c666f401b",
+  "catalogHash": "0648e220c032a128e8c0c22e7c4e2f784f3d361745d769d6e02628f855e6b59e",
+  "notes": [
+    "Independently compared all 194 fields with the English source, including gameplay, community, download instructions, screenshots, navigation and accessibility controls.",
+    "Corrected fog-of-war off versus on, attacked versus attacking warriors, sandy lakes versus lakes made of sand, selected inn description and literal military push wording.",
+    "Corrected source archives versus archived documents, build instructions versus creating instructions, worker healing, application/package vocabulary and Urdu grammatical agreement; retained native سرائے/چھتہ/دوڑ کا میدان labels.",
+    "Preserved early-access, guest/ranked sign-in, browser-save and signing-key qualifications, all placeholders, exact executable commands, filenames and literal screenshot counters.",
+    "AI linguistic review only. Natural language and rendered terminology may still benefit from native-speaker review; this record does not establish human validation or deployment.",
+    "Follow-up source-risk review restricts DejaVu derivation parenthetically to Glob2 Sans, not Nunito; skip links mean go to content.",
+    "Supplementary native Tutorial menu-label review by /root/website_review_b_latin covered home.closing.description and downloads.browserDescription; original full-catalog reviewer provenance is retained."
+  ],
+  "supplementaryReviews": [
+    {
+      "reviewer": "/root/website_review_b_latin",
+      "reviewedAt": "2026-11-01",
+      "fields": [
+        "home.closing.description",
+        "downloads.browserDescription"
+      ],
+      "previousReviewer": "/root/website_review_b_asian",
+      "previousCatalogHash": "592af3e6bdef77ac4621a9e57c04588baa42d8958fbeaace60588e050de7e28c",
+      "notes": [
+        "Compared the two Tutorial navigation instructions against the registered native game [tutorial] label. Corrected menu-name mismatches using natural grammatical inflection; retained all browser-save and backup qualifications. This is a targeted independent AI review, not a replacement for the original full-catalog review."
+      ]
+    }
+  ]
+}

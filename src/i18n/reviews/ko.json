@@ -1,0 +1,17 @@
+{
+  "status": "reviewed",
+  "translator": "/root/website_translation_b",
+  "reviewer": "/root/website_review_b_asian",
+  "method": "Existing Google Cloud Translation draft with agent corrections and independent AI review; no human/native-speaker validation",
+  "reviewedAt": "2026-11-01",
+  "sourceHash": "69c3109f676976b1c91341050cd45528546af26f35ca5a8a0f289b5c666f401b",
+  "catalogHash": "f088ae0c29610ed5395e89856f539326dffae4e5bd8db6c2d325e370abb2133e",
+  "notes": [
+    "Independently compared all 194 fields with the English source, including gameplay, community, download instructions, screenshots, navigation and accessibility controls.",
+    "Corrected musical playing, orders versus product orders, missing Korean particles around protected names, portable ZIP wording, match records versus schedules, sign-in and verified-release qualifications.",
+    "Reconciled 여관, 둥지 and 달리기 훈련장 with native game labels; corrected guide food supply, package distribution, military support and source-code labels.",
+    "Preserved early-access, guest/ranked sign-in, browser-save and signing-key qualifications, all placeholders, exact executable commands, filenames and literal screenshot counters.",
+    "AI linguistic review only. Natural language and rendered terminology may still benefit from native-speaker review; this record does not establish human validation or deployment.",
+    "Follow-up source-risk review restricts DejaVu derivation parenthetically to Glob2 Sans, not Nunito; skip links mean go to content."
+  ]
+}
