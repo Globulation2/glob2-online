@@ -28,4 +28,4 @@ jobs:
       - env:
           API_ORIGIN: ${{ vars.API_ORIGIN }}
           BACKEND_REVISION: ${{ vars.BACKEND_REVISION }}
-        run: python3 scripts/publish-rankings.py --api-origin "$API_ORIGIN" --ladder ranked-1v1 --backend-revision "$BACKEND_REVISION" --bucket glob2-website-public-pharaoh-418820 --object rankings/v1.json
+        run: python3 scripts/publish-rankings.py --api-origin "$API_ORIGIN" --ladder ranked-1v1 --backend-revision "$BACKEND_REVISION" --bucket glob2-website-public --object rankings/v1.json

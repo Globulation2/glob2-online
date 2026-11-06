@@ -9,7 +9,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-BUCKET = 'glob2-website-public-pharaoh-418820'
+BUCKET = 'glob2-website-public'
 IDENTITY = 'glob2-website-media@bradley-personal-20261027.iam.gserviceaccount.com'
 
 def publish(manifest, source, workload_identity=False):

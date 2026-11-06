@@ -77,7 +77,7 @@ export async function monitor() {
       }
     }],
     ['Ratings freshness', async () => {
-      const { body } = await request('https://storage.googleapis.com/glob2-website-public-pharaoh-418820/rankings/v1.json');
+      const { body } = await request('https://storage.googleapis.com/glob2-website-public/rankings/v1.json');
       const age = validateFreshness(JSON.parse(body));
       console.log(`Ratings snapshot: ${Math.floor(age / 60_000)} minutes old`);
     }],
