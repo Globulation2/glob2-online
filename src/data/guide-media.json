@@ -4,7 +4,7 @@
     {
       "id": "pilot-working-detail",
       "path": "/guide-media/v1/getting-started/pilot-working-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/getting-started/pilot-working-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/getting-started/pilot-working-detail.webp",
       "sha256": "6449fe26373934d539ecca382d887a59e9d22da7695f7cd55d9421d193f1add8",
       "bytes": 6798,
       "width": 200,
@@ -16,7 +16,7 @@
     {
       "id": "pilot-idle-detail",
       "path": "/guide-media/v1/getting-started/pilot-idle-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/getting-started/pilot-idle-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/getting-started/pilot-idle-detail.webp",
       "sha256": "015baf533a1602604f7922ea0e13fb8c2dfe3a4150578efebce20c33d4703b28",
       "bytes": 6386,
       "width": 200,
@@ -28,7 +28,7 @@
     {
       "id": "pilot-hospital-working",
       "path": "/guide-media/v1/getting-started/pilot-hospital-working.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/getting-started/pilot-hospital-working.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/getting-started/pilot-hospital-working.webp",
       "sha256": "8ebf83ede1ced36e8d8ef524cc1d5f277654bd034009655ecce86b6da10f62ba",
       "bytes": 5704,
       "width": 200,
@@ -40,7 +40,7 @@
     {
       "id": "pilot-production-detail",
       "path": "/guide-media/v1/getting-started/pilot-production-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/getting-started/pilot-production-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/getting-started/pilot-production-detail.webp",
       "sha256": "c7677ae222d96070d09787cf470e4529d7c3627e4c1a4e3f82f304c2e2cf30ad",
       "bytes": 6382,
       "width": 163,
@@ -52,7 +52,7 @@
     {
       "id": "pilot-restored-detail",
       "path": "/guide-media/v1/getting-started/pilot-restored-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/getting-started/pilot-restored-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/getting-started/pilot-restored-detail.webp",
       "sha256": "382212e4a9d0cd18c55f9fd608b92e373586e5333645f30bad882fc02bff694d",
       "bytes": 6380,
       "width": 163,
@@ -64,7 +64,7 @@
     {
       "id": "pilot-menu",
       "path": "/guide-media/v1/getting-started/pilot-menu.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/getting-started/pilot-menu.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/getting-started/pilot-menu.webp",
       "sha256": "11f3f83927fe6734bb2b15358597e8c81c46f9561e5b15f5227897ceb2cd2fb1",
       "bytes": 240166,
       "width": 1440,
@@ -76,7 +76,7 @@
     {
       "id": "pilot-start",
       "path": "/guide-media/v1/getting-started/pilot-start.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/getting-started/pilot-start.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/getting-started/pilot-start.webp",
       "sha256": "201b82e08591df5c99580d7d8484c419093c0ee59cccb1498f49e6e30e28863c",
       "bytes": 58282,
       "width": 1440,
@@ -88,7 +88,7 @@
     {
       "id": "pilot-foundation",
       "path": "/guide-media/v1/getting-started/pilot-foundation.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/getting-started/pilot-foundation.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/getting-started/pilot-foundation.webp",
       "sha256": "a39b10d344bd748defbb7ad01b0ae8f8d5549ec8830a5653f8bf98b6d3d645ea",
       "bytes": 29764,
       "width": 1440,
@@ -100,7 +100,7 @@
     {
       "id": "pilot-inn",
       "path": "/guide-media/v1/getting-started/pilot-inn.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/getting-started/pilot-inn.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/getting-started/pilot-inn.webp",
       "sha256": "b084f62ac887cd9a229c24a873484ab31f2592e510f9bdcea8a4aeadd1df4ec6",
       "bytes": 60316,
       "width": 1440,
@@ -112,7 +112,7 @@
     {
       "id": "pilot-swarm",
       "path": "/guide-media/v1/getting-started/pilot-swarm.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/getting-started/pilot-swarm.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/getting-started/pilot-swarm.webp",
       "sha256": "f4ef96095a3a8906db5885f6cc44cf4171c32298c3defea8131b0a6d3b33f0b9",
       "bytes": 56328,
       "width": 1440,
@@ -124,7 +124,7 @@
     {
       "id": "pilot-hospital",
       "path": "/guide-media/v1/getting-started/pilot-hospital.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/getting-started/pilot-hospital.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/getting-started/pilot-hospital.webp",
       "sha256": "d4ddffb50cef2bfdd3c17128ac1e1b5a0e2b7bd741827f1b3017d152f05dedbe",
       "bytes": 61870,
       "width": 1440,
@@ -136,7 +136,7 @@
     {
       "id": "pilot-production",
       "path": "/guide-media/v1/getting-started/pilot-production.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/getting-started/pilot-production.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/getting-started/pilot-production.webp",
       "sha256": "c282fb6a396f8c3e2bc08d382f6a03fe53e4aa051b45b349607ea8f627422ab8",
       "bytes": 98266,
       "width": 1440,
@@ -148,7 +148,7 @@
     {
       "id": "pilot-two-explorers",
       "path": "/guide-media/v1/getting-started/pilot-two-explorers.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/getting-started/pilot-two-explorers.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/getting-started/pilot-two-explorers.webp",
       "sha256": "6f89e280bca09e7d4e9718c7ec8006184460ee6a6b61e148e37b9b716e235863",
       "bytes": 191326,
       "width": 1440,
@@ -160,7 +160,7 @@
     {
       "id": "pilot-save",
       "path": "/guide-media/v1/getting-started/pilot-save.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/getting-started/pilot-save.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/getting-started/pilot-save.webp",
       "sha256": "233649d9d11d028788a88bfc8b042f03d587fd1e6c65e2d2708569cccffb73a0",
       "bytes": 130094,
       "width": 1440,
@@ -172,7 +172,7 @@
     {
       "id": "pilot-practice",
       "path": "/guide-media/v1/getting-started/pilot-practice.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/getting-started/pilot-practice.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/getting-started/pilot-practice.webp",
       "sha256": "762025f62e6d757d3f2c36a2615935793e6c6a7ca409c36722eaf054b8051b25",
       "bytes": 45732,
       "width": 1440,
@@ -184,7 +184,7 @@
     {
       "id": "pilot-exploration-poster",
       "path": "/guide-media/v1/getting-started/pilot-exploration-poster.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/getting-started/pilot-exploration-poster.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/getting-started/pilot-exploration-poster.webp",
       "sha256": "f071605401057a25fcd0dc6a9e1ea3a38c3fa8a882a8e7bdc0354c5259c7d90a",
       "bytes": 96360,
       "width": 1440,
@@ -196,7 +196,7 @@
     {
       "id": "pilot-exploration-clip",
       "path": "/guide-media/v1/getting-started/pilot-exploration-clip.mp4",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/getting-started/pilot-exploration-clip.mp4",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/getting-started/pilot-exploration-clip.mp4",
       "sha256": "ff1e4017edf14c9365ae54cc585424e46b72cc4d9a56fa71913878f048014c53",
       "bytes": 1288641,
       "width": 1440,
@@ -209,7 +209,7 @@
     {
       "id": "controls-overview",
       "path": "/guide-media/v1/controls-and-hud/controls-overview.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/controls-and-hud/controls-overview.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/controls-and-hud/controls-overview.webp",
       "sha256": "a6a06c382f0d7aefdda8d6e3b1d49451795f1b17be1d979945d373710a984c02",
       "bytes": 40884,
       "width": 1440,
@@ -221,7 +221,7 @@
     {
       "id": "controls-building",
       "path": "/guide-media/v1/controls-and-hud/controls-building.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/controls-and-hud/controls-building.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/controls-and-hud/controls-building.webp",
       "sha256": "b44ecbccd902ef91052cf4788bdacac10a49b7e47861535d6e5affb7cff4fe06",
       "bytes": 57110,
       "width": 1440,
@@ -233,7 +233,7 @@
     {
       "id": "controls-statistics",
       "path": "/guide-media/v1/controls-and-hud/controls-statistics.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/controls-and-hud/controls-statistics.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/controls-and-hud/controls-statistics.webp",
       "sha256": "1d739ca585eb922c749c8cdfab5375d06c285d44057a256b3f34688feb1b957c",
       "bytes": 46036,
       "width": 1440,
@@ -245,7 +245,7 @@
     {
       "id": "controls-statistics-detail",
       "path": "/guide-media/v1/controls-and-hud/controls-statistics-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/controls-and-hud/controls-statistics-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/controls-and-hud/controls-statistics-detail.webp",
       "sha256": "c988aaac1e832c95d207452d62524ced920180e7d66f3e7152c167bbf6ee07fe",
       "bytes": 11190,
       "width": 160,
@@ -257,7 +257,7 @@
     {
       "id": "controls-building-detail",
       "path": "/guide-media/v1/controls-and-hud/controls-building-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/controls-and-hud/controls-building-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/controls-and-hud/controls-building-detail.webp",
       "sha256": "f0453abaaff6db76a1c3cc3ce6d1ddf1f0435d518e12f5ce2722f693b73e691d",
       "bytes": 6796,
       "width": 160,
@@ -269,7 +269,7 @@
     {
       "id": "hauling-delivery",
       "path": "/guide-media/v1/resources-and-hauling/hauling-delivery.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/resources-and-hauling/hauling-delivery.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/resources-and-hauling/hauling-delivery.webp",
       "sha256": "768a0e27a4bf55534af9588a5a023e8b0e9e18d93aad776187cd35580d160551",
       "bytes": 123806,
       "width": 1440,
@@ -281,7 +281,7 @@
     {
       "id": "hauling-construction",
       "path": "/guide-media/v1/resources-and-hauling/hauling-construction.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/resources-and-hauling/hauling-construction.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/resources-and-hauling/hauling-construction.webp",
       "sha256": "3445e0fdf81e3fd66cebbfd87babea717916b6100bfd46103a75ff0417ce49cd",
       "bytes": 119324,
       "width": 1440,
@@ -293,7 +293,7 @@
     {
       "id": "hauling-construction-detail",
       "path": "/guide-media/v1/resources-and-hauling/hauling-construction-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/resources-and-hauling/hauling-construction-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/resources-and-hauling/hauling-construction-detail.webp",
       "sha256": "f9930e6f96f63acc5be853be66c361610ca54ff0eead49099e7e64747cdd34b6",
       "bytes": 5264,
       "width": 163,
@@ -305,7 +305,7 @@
     {
       "id": "hauling-route-comparison",
       "path": "/guide-media/v1/resources-and-hauling/hauling-route-comparison.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/resources-and-hauling/hauling-route-comparison.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/resources-and-hauling/hauling-route-comparison.webp",
       "sha256": "eabd9e6f957cf84415148e6054cacb32bdff612a292c83646ba49beef5a344f0",
       "bytes": 137148,
       "width": 1440,
@@ -317,7 +317,7 @@
     {
       "id": "hauling-working-detail",
       "path": "/guide-media/v1/resources-and-hauling/hauling-working-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/resources-and-hauling/hauling-working-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/resources-and-hauling/hauling-working-detail.webp",
       "sha256": "c49cdb295429d7f63341e7327113e6fbd8cae71c009cc95dd3e4f9ef3f0c1823",
       "bytes": 6336,
       "width": 163,
@@ -329,7 +329,7 @@
     {
       "id": "hauling-near-detail",
       "path": "/guide-media/v1/resources-and-hauling/hauling-near-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/resources-and-hauling/hauling-near-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/resources-and-hauling/hauling-near-detail.webp",
       "sha256": "c2b793e3aee356429e87fd4733ee41d7a48ecdccb153cc76fa8cb46f37b82740",
       "bytes": 8030,
       "width": 163,
@@ -341,7 +341,7 @@
     {
       "id": "hauling-delivered",
       "path": "/guide-media/v1/resources-and-hauling/hauling-delivered.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/resources-and-hauling/hauling-delivered.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/resources-and-hauling/hauling-delivered.webp",
       "sha256": "266c9935481db758032e735b1e86c4287633361eddc9d2d00b8d928acad9fb0c",
       "bytes": 141396,
       "width": 1440,
@@ -353,7 +353,7 @@
     {
       "id": "hauling-delivery-poster",
       "path": "/guide-media/v1/resources-and-hauling/hauling-delivery-poster.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/resources-and-hauling/hauling-delivery-poster.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/resources-and-hauling/hauling-delivery-poster.webp",
       "sha256": "eabd9e6f957cf84415148e6054cacb32bdff612a292c83646ba49beef5a344f0",
       "bytes": 137148,
       "width": 1440,
@@ -365,7 +365,7 @@
     {
       "id": "hauling-delivery-clip",
       "path": "/guide-media/v1/resources-and-hauling/hauling-delivery-clip.mp4",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/resources-and-hauling/hauling-delivery-clip.mp4",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/resources-and-hauling/hauling-delivery-clip.mp4",
       "sha256": "68633dc1d7e9de1cf933cfc10c115f7d95c7a9adc4f9950a598bbdabf7d124a7",
       "bytes": 1605177,
       "width": 1440,
@@ -378,7 +378,7 @@
     {
       "id": "jobs-war-request",
       "path": "/guide-media/v1/jobs-and-flags/jobs-war-request.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/jobs-and-flags/jobs-war-request.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/jobs-and-flags/jobs-war-request.webp",
       "sha256": "9abb066d7ac19e382ba90ad3513b7265bb9607909cc42ddd8c6d547b71f35cf0",
       "bytes": 55370,
       "width": 1440,
@@ -390,7 +390,7 @@
     {
       "id": "jobs-war-detail",
       "path": "/guide-media/v1/jobs-and-flags/jobs-war-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/jobs-and-flags/jobs-war-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/jobs-and-flags/jobs-war-detail.webp",
       "sha256": "20490b6a23ecd79ecc5df10070f0b75f95761a7d74bfa9cba450bc753dd74aab",
       "bytes": 6836,
       "width": 150,
@@ -402,7 +402,7 @@
     {
       "id": "jobs-guard-area",
       "path": "/guide-media/v1/jobs-and-flags/jobs-guard-area.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/jobs-and-flags/jobs-guard-area.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/jobs-and-flags/jobs-guard-area.webp",
       "sha256": "fa8d9e449f7098fb71ef7a54ec0fefcd80a618348970cb611b4739d062c6221c",
       "bytes": 29414,
       "width": 1440,
@@ -414,7 +414,7 @@
     {
       "id": "jobs-guard-detail",
       "path": "/guide-media/v1/jobs-and-flags/jobs-guard-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/jobs-and-flags/jobs-guard-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/jobs-and-flags/jobs-guard-detail.webp",
       "sha256": "1f52625e9a5a0aa9340a31434b587e1969906271f1d4e8f29ea24087baf4c4c1",
       "bytes": 3850,
       "width": 145,
@@ -426,7 +426,7 @@
     {
       "id": "food-first-stock",
       "path": "/guide-media/v1/sustainable-food/food-first-stock.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/sustainable-food/food-first-stock.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/sustainable-food/food-first-stock.webp",
       "sha256": "22cc20fc4e137dee9c2c464a7991005e8b7400871b8ad65e6e07d83cd3308a4f",
       "bytes": 48944,
       "width": 1440,
@@ -438,7 +438,7 @@
     {
       "id": "food-first-stock-detail",
       "path": "/guide-media/v1/sustainable-food/food-first-stock-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/sustainable-food/food-first-stock-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/sustainable-food/food-first-stock-detail.webp",
       "sha256": "222ddecc69d3f475ed25f8c057d2cd41993b9c528a2685ab23df78af066b684a",
       "bytes": 6322,
       "width": 163,
@@ -450,7 +450,7 @@
     {
       "id": "food-swarm",
       "path": "/guide-media/v1/sustainable-food/food-swarm.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/sustainable-food/food-swarm.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/sustainable-food/food-swarm.webp",
       "sha256": "8ee51e45ec3b8f29e5c1d39b9e9d5eaaadac071408a7fd2d54706d9e31ce5b69",
       "bytes": 49296,
       "width": 1440,
@@ -462,7 +462,7 @@
     {
       "id": "food-swarm-detail",
       "path": "/guide-media/v1/sustainable-food/food-swarm-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/sustainable-food/food-swarm-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/sustainable-food/food-swarm-detail.webp",
       "sha256": "90d895275851fc8ec3775cc21519d98264ba2d5550896278b6e00c9a021c65ce",
       "bytes": 6452,
       "width": 163,
@@ -474,7 +474,7 @@
     {
       "id": "food-stock-falling",
       "path": "/guide-media/v1/sustainable-food/food-stock-falling.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/sustainable-food/food-stock-falling.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/sustainable-food/food-stock-falling.webp",
       "sha256": "21350b65ed1ffdec8b47feba1f675b742edadbdcdcc14cbe0d368760eb76db55",
       "bytes": 6282,
       "width": 163,
@@ -486,7 +486,7 @@
     {
       "id": "food-recovery",
       "path": "/guide-media/v1/sustainable-food/food-recovery.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/sustainable-food/food-recovery.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/sustainable-food/food-recovery.webp",
       "sha256": "a8f80459f6c948792b57a97497e498ae1b1c6fa4b37f3b0c032dcbb63ae313b8",
       "bytes": 80714,
       "width": 1440,
@@ -498,7 +498,7 @@
     {
       "id": "food-recovery-detail",
       "path": "/guide-media/v1/sustainable-food/food-recovery-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/sustainable-food/food-recovery-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/sustainable-food/food-recovery-detail.webp",
       "sha256": "0aec626f63066be5ab3ace7a2521c7364007e692008871cd3c77ce3734ecfb6e",
       "bytes": 7974,
       "width": 163,
@@ -510,7 +510,7 @@
     {
       "id": "food-field-comparison",
       "path": "/guide-media/v1/sustainable-food/food-field-comparison.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/sustainable-food/food-field-comparison.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/sustainable-food/food-field-comparison.webp",
       "sha256": "14462c7b9a42605830e613d118f66cc19695a8748fd9b833a4b8e11b233e881e",
       "bytes": 19078,
       "width": 320,
@@ -522,7 +522,7 @@
     {
       "id": "population-panel",
       "path": "/guide-media/v1/population-and-production/population-panel.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/population-and-production/population-panel.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/population-and-production/population-panel.webp",
       "sha256": "4d187a38410a54826a85980384b57e7717444a1d3be70c7d0626c04f93409d7f",
       "bytes": 95858,
       "width": 1440,
@@ -534,7 +534,7 @@
     {
       "id": "population-panel-detail",
       "path": "/guide-media/v1/population-and-production/population-panel-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/population-and-production/population-panel-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/population-and-production/population-panel-detail.webp",
       "sha256": "1a81a63e9258a1c256acf0798ab80b43e8caba26f6258cbc9b7a18e2da36bf86",
       "bytes": 6854,
       "width": 163,
@@ -546,7 +546,7 @@
     {
       "id": "population-worker-result",
       "path": "/guide-media/v1/population-and-production/population-worker-result.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/population-and-production/population-worker-result.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/population-and-production/population-worker-result.webp",
       "sha256": "d1ddade46e4b80b37cc69491440cc6290ec8461a769bade1da653cef30b3a917",
       "bytes": 98246,
       "width": 1440,
@@ -558,7 +558,7 @@
     {
       "id": "population-worker-count",
       "path": "/guide-media/v1/population-and-production/population-worker-count.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/population-and-production/population-worker-count.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/population-and-production/population-worker-count.webp",
       "sha256": "1fca1825d7d6cce8ea7f80580a834752c53147285748b48fa90aee4ea10ec0ac",
       "bytes": 2112,
       "width": 796,
@@ -570,7 +570,7 @@
     {
       "id": "population-explorer-result",
       "path": "/guide-media/v1/population-and-production/population-explorer-result.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/population-and-production/population-explorer-result.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/population-and-production/population-explorer-result.webp",
       "sha256": "570b4fcf71e99980d4d98808af272f3cf6d22d98d6457ae44fcc54df04f8d9e7",
       "bytes": 123508,
       "width": 1440,
@@ -582,7 +582,7 @@
     {
       "id": "population-explorer-count",
       "path": "/guide-media/v1/population-and-production/population-explorer-count.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/population-and-production/population-explorer-count.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/population-and-production/population-explorer-count.webp",
       "sha256": "84cdb547e30fb5f3899c1d230206a7e2a22abbafe439c6d0406f2ee13e930fff",
       "bytes": 2272,
       "width": 796,
@@ -594,7 +594,7 @@
     {
       "id": "population-zero-weights",
       "path": "/guide-media/v1/population-and-production/population-zero-weights.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/population-and-production/population-zero-weights.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/population-and-production/population-zero-weights.webp",
       "sha256": "9479ac1c53f509e95e558a556e9485b65d0126af10055ce3b374c6f53791cf28",
       "bytes": 6738,
       "width": 163,
@@ -606,7 +606,7 @@
     {
       "id": "population-stable-total",
       "path": "/guide-media/v1/population-and-production/population-stable-total.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/population-and-production/population-stable-total.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/population-and-production/population-stable-total.webp",
       "sha256": "84cdb547e30fb5f3899c1d230206a7e2a22abbafe439c6d0406f2ee13e930fff",
       "bytes": 2272,
       "width": 796,
@@ -618,7 +618,7 @@
     {
       "id": "services-foundation",
       "path": "/guide-media/v1/buildings-and-services/services-foundation.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/buildings-and-services/services-foundation.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/buildings-and-services/services-foundation.webp",
       "sha256": "d506f9f7b25f0e7652ae813f6e519d2081f402571d06c3a34c1147f73f33a26e",
       "bytes": 133758,
       "width": 1440,
@@ -630,7 +630,7 @@
     {
       "id": "services-stalled-school",
       "path": "/guide-media/v1/buildings-and-services/services-stalled-school.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/buildings-and-services/services-stalled-school.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/buildings-and-services/services-stalled-school.webp",
       "sha256": "93701e64c37e8e23fdb43a9aa703dd54eeb4898305180e06a7e2593e1d742b35",
       "bytes": 7770,
       "width": 163,
@@ -642,7 +642,7 @@
     {
       "id": "services-active",
       "path": "/guide-media/v1/buildings-and-services/services-active.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/buildings-and-services/services-active.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/buildings-and-services/services-active.webp",
       "sha256": "58d8a6389ba485911ef67bf62dc0c9f525178ac8c481fa4a58a8397e224b7e76",
       "bytes": 140578,
       "width": 1440,
@@ -654,7 +654,7 @@
     {
       "id": "services-active-detail",
       "path": "/guide-media/v1/buildings-and-services/services-active-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/buildings-and-services/services-active-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/buildings-and-services/services-active-detail.webp",
       "sha256": "222fe63e2a43cf5807f145abac04b74b6da18e7392445ca168820a7b1e8ca6bc",
       "bytes": 3344,
       "width": 163,
@@ -666,7 +666,7 @@
     {
       "id": "services-healing",
       "path": "/guide-media/v1/buildings-and-services/services-healing.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/buildings-and-services/services-healing.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/buildings-and-services/services-healing.webp",
       "sha256": "534f1b27dfa2ca7c128b693c86f01754b46e232b09f07782fc6eed71ff7c281e",
       "bytes": 140964,
       "width": 1440,
@@ -678,7 +678,7 @@
     {
       "id": "services-healing-detail",
       "path": "/guide-media/v1/buildings-and-services/services-healing-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/buildings-and-services/services-healing-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/buildings-and-services/services-healing-detail.webp",
       "sha256": "565a1fe09ed631da0ccfc3aa21704c3b716c17968620d8cdc5a4d34d075676bd",
       "bytes": 3458,
       "width": 163,
@@ -690,7 +690,7 @@
     {
       "id": "services-healing-result",
       "path": "/guide-media/v1/buildings-and-services/services-healing-result.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/buildings-and-services/services-healing-result.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/buildings-and-services/services-healing-result.webp",
       "sha256": "222fe63e2a43cf5807f145abac04b74b6da18e7392445ca168820a7b1e8ca6bc",
       "bytes": 3344,
       "width": 163,
@@ -702,7 +702,7 @@
     {
       "id": "training-school-site",
       "path": "/guide-media/v1/training-and-upgrades/training-school-site.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/training-and-upgrades/training-school-site.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/training-and-upgrades/training-school-site.webp",
       "sha256": "c65379d3596d34a1da8d746387c3790998da264c6cbc299559d6e0f96ee7db7e",
       "bytes": 98318,
       "width": 1440,
@@ -714,7 +714,7 @@
     {
       "id": "training-school-service",
       "path": "/guide-media/v1/training-and-upgrades/training-school-service.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/training-and-upgrades/training-school-service.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/training-and-upgrades/training-school-service.webp",
       "sha256": "11e8e6127c899e6f9293aca050f7eb1eac9f54831c1dcf7a09bb281f9a38a072",
       "bytes": 97582,
       "width": 1440,
@@ -726,7 +726,7 @@
     {
       "id": "training-school-detail",
       "path": "/guide-media/v1/training-and-upgrades/training-school-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/training-and-upgrades/training-school-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/training-and-upgrades/training-school-detail.webp",
       "sha256": "d695e2377edca8543ce146cf15b883f123a29cc6bd4020792140a841aa31c562",
       "bytes": 3572,
       "width": 163,
@@ -738,7 +738,7 @@
     {
       "id": "training-worker-before",
       "path": "/guide-media/v1/training-and-upgrades/training-worker-before.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/training-and-upgrades/training-worker-before.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/training-and-upgrades/training-worker-before.webp",
       "sha256": "bd2915e7514bfe3006718ed42c8fdc0e403ed40666b086606c53e5ddbccf4012",
       "bytes": 4944,
       "width": 163,
@@ -750,7 +750,7 @@
     {
       "id": "training-worker-after",
       "path": "/guide-media/v1/training-and-upgrades/training-worker-after.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/training-and-upgrades/training-worker-after.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/training-and-upgrades/training-worker-after.webp",
       "sha256": "9950a8d2498a535feb09ab694c7c2420fc3cd4418a2de08d862993d3338fa6e4",
       "bytes": 4836,
       "width": 163,
@@ -762,7 +762,7 @@
     {
       "id": "training-upgrade-locked",
       "path": "/guide-media/v1/training-and-upgrades/training-upgrade-locked.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/training-and-upgrades/training-upgrade-locked.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/training-and-upgrades/training-upgrade-locked.webp",
       "sha256": "2f60b0fa816112a1aaec359fb091e19b877bd0076aa60df3b6711a310d7c4969",
       "bytes": 7378,
       "width": 163,
@@ -774,7 +774,7 @@
     {
       "id": "training-upgrade-unlocked",
       "path": "/guide-media/v1/training-and-upgrades/training-upgrade-unlocked.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/training-and-upgrades/training-upgrade-unlocked.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/training-and-upgrades/training-upgrade-unlocked.webp",
       "sha256": "72e9b938f3601f6280352b2d1621aac1a425772cbf743f3678c7560c559927cc",
       "bytes": 8030,
       "width": 163,
@@ -786,7 +786,7 @@
     {
       "id": "training-upgrade-site",
       "path": "/guide-media/v1/training-and-upgrades/training-upgrade-site.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/training-and-upgrades/training-upgrade-site.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/training-and-upgrades/training-upgrade-site.webp",
       "sha256": "24a822f5a04de00a42f3d29cfef75fde1ac7beb6b6b3dbebc5043833efaf2881",
       "bytes": 104934,
       "width": 1440,
@@ -798,7 +798,7 @@
     {
       "id": "training-upgrade-site-detail",
       "path": "/guide-media/v1/training-and-upgrades/training-upgrade-site-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/training-and-upgrades/training-upgrade-site-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/training-and-upgrades/training-upgrade-site-detail.webp",
       "sha256": "82b6bbd892fe679c4dcc01e9e503ec73227c4fb7c807715bd6807bf23df77352",
       "bytes": 5456,
       "width": 163,
@@ -810,7 +810,7 @@
     {
       "id": "training-upgrade-result",
       "path": "/guide-media/v1/training-and-upgrades/training-upgrade-result.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/training-and-upgrades/training-upgrade-result.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/training-and-upgrades/training-upgrade-result.webp",
       "sha256": "3bb2b32c1b41838668f0130e4b8b8279e935b9cd48f9f913aa885a141e2e74a0",
       "bytes": 120400,
       "width": 1440,
@@ -822,7 +822,7 @@
     {
       "id": "training-upgrade-detail",
       "path": "/guide-media/v1/training-and-upgrades/training-upgrade-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/training-and-upgrades/training-upgrade-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/training-and-upgrades/training-upgrade-detail.webp",
       "sha256": "9e0370b1d2ec7c98f7cf1ecc439a39c52c18ea453543c95d7a8bf522c3b17df6",
       "bytes": 7254,
       "width": 163,
@@ -834,7 +834,7 @@
     {
       "id": "scout-start",
       "path": "/guide-media/v1/exploration-and-movement/scout-start.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/exploration-and-movement/scout-start.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/exploration-and-movement/scout-start.webp",
       "sha256": "07cc3619a8ac8c583249bf6e9756c9cecdcf0b1853010b1a50caa098088f399d",
       "bytes": 188764,
       "width": 1440,
@@ -846,7 +846,7 @@
     {
       "id": "scout-result",
       "path": "/guide-media/v1/exploration-and-movement/scout-result.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/exploration-and-movement/scout-result.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/exploration-and-movement/scout-result.webp",
       "sha256": "023eab1f5b734673752af6ff1ca46e19a4c42df34e4f54617e2fa5ab9a116242",
       "bytes": 213836,
       "width": 1440,
@@ -858,7 +858,7 @@
     {
       "id": "scout-detail",
       "path": "/guide-media/v1/exploration-and-movement/scout-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/exploration-and-movement/scout-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/exploration-and-movement/scout-detail.webp",
       "sha256": "148d89e3ea27ea0e5d30ec62df8afa8825f86a1a12114b131ce213711edce667",
       "bytes": 7958,
       "width": 150,
@@ -870,7 +870,7 @@
     {
       "id": "scout-clip-poster",
       "path": "/guide-media/v1/exploration-and-movement/scout-clip-poster.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/exploration-and-movement/scout-clip-poster.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/exploration-and-movement/scout-clip-poster.webp",
       "sha256": "07cc3619a8ac8c583249bf6e9756c9cecdcf0b1853010b1a50caa098088f399d",
       "bytes": 188764,
       "width": 1440,
@@ -882,7 +882,7 @@
     {
       "id": "scout-flag-clip",
       "path": "/guide-media/v1/exploration-and-movement/scout-flag-clip.mp4",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/exploration-and-movement/scout-flag-clip.mp4",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/exploration-and-movement/scout-flag-clip.mp4",
       "sha256": "7a8c3ca2b262b69244a9ce0201cb6e80b36a6a82ae237f9d1a5d7fd7151d8d81",
       "bytes": 1136176,
       "width": 1440,
@@ -895,7 +895,7 @@
     {
       "id": "reference-settings",
       "path": "/guide-media/v1/reference-controls/reference-settings.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/reference-controls/reference-settings.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/reference-controls/reference-settings.webp",
       "sha256": "fdb2e548d662dd384f81bcd0ba8968391fa60f54831bf2ded3e4078d4aa1f7a5",
       "bytes": 215974,
       "width": 1440,
@@ -907,7 +907,7 @@
     {
       "id": "reference-settings-detail",
       "path": "/guide-media/v1/reference-controls/reference-settings-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/reference-controls/reference-settings-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/reference-controls/reference-settings-detail.webp",
       "sha256": "d4d2a497a519edda801881489fd4f329f8794ab465b9d26e39ea12dd89e834ad",
       "bytes": 6684,
       "width": 716,
@@ -919,7 +919,7 @@
     {
       "id": "recovery-raid-loss",
       "path": "/guide-media/v1/recovering-your-colony/recovery-raid-loss.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/recovering-your-colony/recovery-raid-loss.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/recovering-your-colony/recovery-raid-loss.webp",
       "sha256": "cd90f176157272c455df493926c7c047b82830121a6c38eb3d792bb380d31c4a",
       "bytes": 236676,
       "width": 1440,
@@ -931,7 +931,7 @@
     {
       "id": "recovery-hospital-detail",
       "path": "/guide-media/v1/recovering-your-colony/recovery-hospital-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/recovering-your-colony/recovery-hospital-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/recovering-your-colony/recovery-hospital-detail.webp",
       "sha256": "e26321d2e4d345d1f36d5c5a92594b88ec5fdcdea9dda431f2c469c96e93e152",
       "bytes": 3420,
       "width": 150,
@@ -943,7 +943,7 @@
     {
       "id": "defense-inn",
       "path": "/guide-media/v1/defending-your-colony/defense-inn.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/defending-your-colony/defense-inn.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/defending-your-colony/defense-inn.webp",
       "sha256": "503436f76e315296cb69d8604f5fcd09ae4545fb1687e5b89b62f17453a99567",
       "bytes": 239176,
       "width": 1440,
@@ -955,7 +955,7 @@
     {
       "id": "defense-contact-detail",
       "path": "/guide-media/v1/defending-your-colony/defense-contact-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/defending-your-colony/defense-contact-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/defending-your-colony/defense-contact-detail.webp",
       "sha256": "b45cd336e7aec444e7dd47522560b52a18898286386da9e7ed4f1b4f52572f1e",
       "bytes": 23288,
       "width": 290,
@@ -967,7 +967,7 @@
     {
       "id": "defense-warrior-detail",
       "path": "/guide-media/v1/defending-your-colony/defense-warrior-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/defending-your-colony/defense-warrior-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/defending-your-colony/defense-warrior-detail.webp",
       "sha256": "98872df44fe223eaf4e7487074bb3262156bff2ded30c01beb74697d7856ae5c",
       "bytes": 5980,
       "width": 150,
@@ -979,7 +979,7 @@
     {
       "id": "defense-after-contact",
       "path": "/guide-media/v1/defending-your-colony/defense-after-contact.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/defending-your-colony/defense-after-contact.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/defending-your-colony/defense-after-contact.webp",
       "sha256": "f8f3fc031ad797da709df7b5d0c18db8a1fbef843af74b844c7c515921ba6e03",
       "bytes": 240212,
       "width": 1440,
@@ -991,7 +991,7 @@
     {
       "id": "defense-after-detail",
       "path": "/guide-media/v1/defending-your-colony/defense-after-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/defending-your-colony/defense-after-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/defending-your-colony/defense-after-detail.webp",
       "sha256": "a28b24c22e67440b61b9f0018b3d450d21cc789d87f1f35d7d73eb33f95ae955",
       "bytes": 34172,
       "width": 375,
@@ -1003,7 +1003,7 @@
     {
       "id": "defense-hospital-detail",
       "path": "/guide-media/v1/defending-your-colony/defense-hospital-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/defending-your-colony/defense-hospital-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/defending-your-colony/defense-hospital-detail.webp",
       "sha256": "e26321d2e4d345d1f36d5c5a92594b88ec5fdcdea9dda431f2c469c96e93e152",
       "bytes": 3420,
       "width": 150,
@@ -1015,7 +1015,7 @@
     {
       "id": "rules-standard",
       "path": "/guide-media/v1/victory-and-rules/rules-standard.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/victory-and-rules/rules-standard.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/victory-and-rules/rules-standard.webp",
       "sha256": "192b5f27e298385eb045c0864f3bc43e7818ec86d404dc48b28aca647868508e",
       "bytes": 71018,
       "width": 1440,
@@ -1027,7 +1027,7 @@
     {
       "id": "rules-conquest",
       "path": "/guide-media/v1/victory-and-rules/rules-conquest.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/victory-and-rules/rules-conquest.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/victory-and-rules/rules-conquest.webp",
       "sha256": "5f98de6d6b02485400222bb2e9af5adc32d3e3779e1cd6ef906492992aac7438",
       "bytes": 76600,
       "width": 1440,
@@ -1039,7 +1039,7 @@
     {
       "id": "rules-victory-detail",
       "path": "/guide-media/v1/victory-and-rules/rules-victory-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/victory-and-rules/rules-victory-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/victory-and-rules/rules-victory-detail.webp",
       "sha256": "89c03886ae78f66780b2c15ea0ceae27738012022ed16b252061df5d80d7d296",
       "bytes": 2426,
       "width": 285,
@@ -1051,7 +1051,7 @@
     {
       "id": "rules-sandbox",
       "path": "/guide-media/v1/victory-and-rules/rules-sandbox.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/victory-and-rules/rules-sandbox.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/victory-and-rules/rules-sandbox.webp",
       "sha256": "ddb11083b332f454e84fec856fe43782413d6c7e4b120387607f75a3fd527d67",
       "bytes": 81020,
       "width": 1440,
@@ -1063,7 +1063,7 @@
     {
       "id": "rules-presets-detail",
       "path": "/guide-media/v1/victory-and-rules/rules-presets-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/victory-and-rules/rules-presets-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/victory-and-rules/rules-presets-detail.webp",
       "sha256": "d845d325da574bb8f4cb114df6942fa7b31f13dc58213f4e7b40a4188e2a8cd6",
       "bytes": 7956,
       "width": 261,
@@ -1075,7 +1075,7 @@
     {
       "id": "attack-production-detail",
       "path": "/guide-media/v1/organizing-an-attack/attack-production-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/organizing-an-attack/attack-production-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/organizing-an-attack/attack-production-detail.webp",
       "sha256": "c74fe5083f78883515e9525b094218413e540c455a215a6b2138767f050cc6b1",
       "bytes": 7724,
       "width": 150,
@@ -1087,7 +1087,7 @@
     {
       "id": "attack-readiness-detail",
       "path": "/guide-media/v1/organizing-an-attack/attack-readiness-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/organizing-an-attack/attack-readiness-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/organizing-an-attack/attack-readiness-detail.webp",
       "sha256": "cbe147bc53116fdce8d2bb7083d9ce05a99f74eecefb10ac8960ec91520e1c66",
       "bytes": 6682,
       "width": 150,
@@ -1099,7 +1099,7 @@
     {
       "id": "attack-staging-meals-detail",
       "path": "/guide-media/v1/organizing-an-attack/attack-staging-meals-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/organizing-an-attack/attack-staging-meals-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/organizing-an-attack/attack-staging-meals-detail.webp",
       "sha256": "c5ee309a69a770b7ff86ca4e1d5e207246fb9f8a8d17cd9cc406c778405a7c18",
       "bytes": 7278,
       "width": 150,
@@ -1111,7 +1111,7 @@
     {
       "id": "attack-gather",
       "path": "/guide-media/v1/organizing-an-attack/attack-gather.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/organizing-an-attack/attack-gather.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/organizing-an-attack/attack-gather.webp",
       "sha256": "12a2a849efb0b6d1f8a3e8fc97509a9eaa7a986b07af79d9905f4bac647ae4cd",
       "bytes": 221186,
       "width": 1440,
@@ -1123,7 +1123,7 @@
     {
       "id": "attack-gather-detail",
       "path": "/guide-media/v1/organizing-an-attack/attack-gather-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/organizing-an-attack/attack-gather-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/organizing-an-attack/attack-gather-detail.webp",
       "sha256": "7e4a4e62176c7300c6ba8cced1650ab29e33b0e2763ae6ab878c3738efa2bae7",
       "bytes": 7828,
       "width": 150,
@@ -1135,7 +1135,7 @@
     {
       "id": "attack-objective-before",
       "path": "/guide-media/v1/organizing-an-attack/attack-objective-before.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/organizing-an-attack/attack-objective-before.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/organizing-an-attack/attack-objective-before.webp",
       "sha256": "3da136fe3732b5f4185507c8820700dda88e79486754cedd08198bf9f58e9db1",
       "bytes": 29590,
       "width": 380,
@@ -1147,7 +1147,7 @@
     {
       "id": "attack-objective-health-detail",
       "path": "/guide-media/v1/organizing-an-attack/attack-objective-health-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/organizing-an-attack/attack-objective-health-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/organizing-an-attack/attack-objective-health-detail.webp",
       "sha256": "ba9a1f1828aaa97497082b8bb3cdd483f07cd831db0c8056ac11bc583e543808",
       "bytes": 2798,
       "width": 150,
@@ -1159,7 +1159,7 @@
     {
       "id": "attack-objective-after",
       "path": "/guide-media/v1/organizing-an-attack/attack-objective-after.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/organizing-an-attack/attack-objective-after.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/organizing-an-attack/attack-objective-after.webp",
       "sha256": "795dabe32affbf62747d806cc65ac30f05f3227e0916c13a44e0baf38169cd37",
       "bytes": 28050,
       "width": 380,
@@ -1171,7 +1171,7 @@
     {
       "id": "attack-home-group-detail",
       "path": "/guide-media/v1/organizing-an-attack/attack-home-group-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/organizing-an-attack/attack-home-group-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/organizing-an-attack/attack-home-group-detail.webp",
       "sha256": "8a2b832016f10d4e0fed35bec136d22d1ea8cf6f742c277af1a9e86dd5595d3c",
       "bytes": 7836,
       "width": 150,
@@ -1183,7 +1183,7 @@
     {
       "id": "attack-returning-warrior-detail",
       "path": "/guide-media/v1/organizing-an-attack/attack-returning-warrior-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/organizing-an-attack/attack-returning-warrior-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/organizing-an-attack/attack-returning-warrior-detail.webp",
       "sha256": "08d5af0d0161328e83a0bed3c4989b3f27c9cbb9cb80700612b1a28d500a975d",
       "bytes": 6882,
       "width": 150,
@@ -1195,7 +1195,7 @@
     {
       "id": "attack-home-meals",
       "path": "/guide-media/v1/organizing-an-attack/attack-home-meals.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/organizing-an-attack/attack-home-meals.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/organizing-an-attack/attack-home-meals.webp",
       "sha256": "f715518cdc6d308ebc30693be7649c1f66cb1619fd3483226624313609c9f27e",
       "bytes": 235344,
       "width": 1440,
@@ -1207,7 +1207,7 @@
     {
       "id": "attack-home-meals-detail",
       "path": "/guide-media/v1/organizing-an-attack/attack-home-meals-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/organizing-an-attack/attack-home-meals-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/organizing-an-attack/attack-home-meals-detail.webp",
       "sha256": "616ca74ed446154a526f52e03ee801eceb90ea9f340ce82d6078781b23456a04",
       "bytes": 7476,
       "width": 150,
@@ -1219,7 +1219,7 @@
     {
       "id": "attack-contact-poster",
       "path": "/guide-media/v1/organizing-an-attack/attack-contact-poster.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/organizing-an-attack/attack-contact-poster.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/organizing-an-attack/attack-contact-poster.webp",
       "sha256": "7097c4dd767bce17663379503e2f7922e370bde62209aa3916fd50a4c4b8f678",
       "bytes": 164596,
       "width": 1440,
@@ -1231,7 +1231,7 @@
     {
       "id": "attack-contact-clip",
       "path": "/guide-media/v1/organizing-an-attack/attack-contact-clip.mp4",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/organizing-an-attack/attack-contact-clip.mp4",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/organizing-an-attack/attack-contact-clip.mp4",
       "sha256": "223ff03f487019dee9b15b83a48d4c94ef2fc054baba020b59f1287575a68c10",
       "bytes": 3027235,
       "width": 1440,
@@ -1244,7 +1244,7 @@
     {
       "id": "browser-load",
       "path": "/guide-media/v1/browser-and-multiplayer/browser-load.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/browser-and-multiplayer/browser-load.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/browser-and-multiplayer/browser-load.webp",
       "sha256": "937c699c22416f10e2888acb9539c56ff1eb71e2c4beb86dea43c99c99d8c0a5",
       "bytes": 259842,
       "width": 1440,
@@ -1256,7 +1256,7 @@
     {
       "id": "browser-file-detail",
       "path": "/guide-media/v1/browser-and-multiplayer/browser-file-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/browser-and-multiplayer/browser-file-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/browser-and-multiplayer/browser-file-detail.webp",
       "sha256": "edbcf426fa671cead23f8bbd658c0988e1110ce55007ccf2293010325f269b91",
       "bytes": 2484,
       "width": 310,
@@ -1268,7 +1268,7 @@
     {
       "id": "browser-recording",
       "path": "/guide-media/v1/browser-and-multiplayer/browser-recording.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/browser-and-multiplayer/browser-recording.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/browser-and-multiplayer/browser-recording.webp",
       "sha256": "37ffa67f1d5b5178eb496800d556341d733937368a2922934d9ec6d5e533a4f1",
       "bytes": 197832,
       "width": 1440,
@@ -1280,7 +1280,7 @@
     {
       "id": "browser-recording-detail",
       "path": "/guide-media/v1/browser-and-multiplayer/browser-recording-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/browser-and-multiplayer/browser-recording-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/browser-and-multiplayer/browser-recording-detail.webp",
       "sha256": "f5dadc17bffb4bb851cbb4a6ee8a71629cd97304218aa2a2a03f317fefdb3452",
       "bytes": 1730,
       "width": 390,
@@ -1292,7 +1292,7 @@
     {
       "id": "fruit-orchard",
       "path": "/guide-media/v1/fruit-and-conversion/fruit-orchard.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/fruit-and-conversion/fruit-orchard.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/fruit-and-conversion/fruit-orchard.webp",
       "sha256": "3d8449dfc4e07fa0b581d2221f87ed2362c61d0ab77a404d19ba92a75eecf623",
       "bytes": 146322,
       "width": 1440,
@@ -1304,7 +1304,7 @@
     {
       "id": "fruit-orchard-detail",
       "path": "/guide-media/v1/fruit-and-conversion/fruit-orchard-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/fruit-and-conversion/fruit-orchard-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/fruit-and-conversion/fruit-orchard-detail.webp",
       "sha256": "6a9e32e93f4786f6e8baa0fa42596a52a2f1c8944a1616694e801bbd7583f764",
       "bytes": 24772,
       "width": 364,
@@ -1316,7 +1316,7 @@
     {
       "id": "fruit-stock",
       "path": "/guide-media/v1/fruit-and-conversion/fruit-stock.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/fruit-and-conversion/fruit-stock.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/fruit-and-conversion/fruit-stock.webp",
       "sha256": "35031683670c345f1006d8f6391a9d8d5314fe8d1572a80074649355c22fc4cd",
       "bytes": 142368,
       "width": 1440,
@@ -1328,7 +1328,7 @@
     {
       "id": "fruit-stock-detail",
       "path": "/guide-media/v1/fruit-and-conversion/fruit-stock-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/fruit-and-conversion/fruit-stock-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/fruit-and-conversion/fruit-stock-detail.webp",
       "sha256": "afae5aa3a8260587c932783854ae857b2485bfe5221fac65dc8e3fa3f083b952",
       "bytes": 6994,
       "width": 155,
@@ -1340,7 +1340,7 @@
     {
       "id": "fruit-meal",
       "path": "/guide-media/v1/fruit-and-conversion/fruit-meal.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/fruit-and-conversion/fruit-meal.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/fruit-and-conversion/fruit-meal.webp",
       "sha256": "2849f16e8e33ad1db5d1d16a64c13a2481fb4db2b40fa3ef4e6251d85c880e2c",
       "bytes": 4918,
       "width": 152,
@@ -1352,7 +1352,7 @@
     {
       "id": "fruit-advertise",
       "path": "/guide-media/v1/fruit-and-conversion/fruit-advertise.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/fruit-and-conversion/fruit-advertise.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/fruit-and-conversion/fruit-advertise.webp",
       "sha256": "381f347c4e3845bd4cb6e58057a795774e49346c20ce9457dd7726183ab8812a",
       "bytes": 123126,
       "width": 1440,
@@ -1364,7 +1364,7 @@
     {
       "id": "fruit-advertise-detail",
       "path": "/guide-media/v1/fruit-and-conversion/fruit-advertise-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/fruit-and-conversion/fruit-advertise-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/fruit-and-conversion/fruit-advertise-detail.webp",
       "sha256": "57f18a6d7369bc5bb1d0855ee14b2608a2f69ad3c575733f3d97f15bc5e9b08e",
       "bytes": 2628,
       "width": 398,
@@ -1376,7 +1376,7 @@
     {
       "id": "fruit-conversion",
       "path": "/guide-media/v1/fruit-and-conversion/fruit-conversion.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/fruit-and-conversion/fruit-conversion.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/fruit-and-conversion/fruit-conversion.webp",
       "sha256": "3d8449dfc4e07fa0b581d2221f87ed2362c61d0ab77a404d19ba92a75eecf623",
       "bytes": 146322,
       "width": 1440,
@@ -1388,7 +1388,7 @@
     {
       "id": "fruit-conversion-detail",
       "path": "/guide-media/v1/fruit-and-conversion/fruit-conversion-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/fruit-and-conversion/fruit-conversion-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/fruit-and-conversion/fruit-conversion-detail.webp",
       "sha256": "f18af4190756018c8de441dc05fa8000ba6d14a5db35efe90e280311ba2bb549",
       "bytes": 2620,
       "width": 354,
@@ -1401,7 +1401,7 @@
     {
       "id": "fruit-armor-before",
       "path": "/guide-media/v1/fruit-and-conversion/fruit-armor-before.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/fruit-and-conversion/fruit-armor-before.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/fruit-and-conversion/fruit-armor-before.webp",
       "sha256": "c59be3af105af3379c097aaf4e613fa42933432093d84b44d57faf184829930f",
       "bytes": 6028,
       "width": 153,
@@ -1413,7 +1413,7 @@
     {
       "id": "fruit-armor-after",
       "path": "/guide-media/v1/fruit-and-conversion/fruit-armor-after.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/fruit-and-conversion/fruit-armor-after.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/fruit-and-conversion/fruit-armor-after.webp",
       "sha256": "e0f076cbe27aaa70c2cff3fc3d07a9e9f8374a430410f4b01ed402050fb87d38",
       "bytes": 5926,
       "width": 153,
@@ -1425,7 +1425,7 @@
     {
       "id": "fruit-offer-clip",
       "path": "/guide-media/v1/fruit-and-conversion/fruit-offer-clip.mp4",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/fruit-and-conversion/fruit-offer-clip.mp4",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/fruit-and-conversion/fruit-offer-clip.mp4",
       "sha256": "c5a8637ac0c021cdcc233161257cd4395c64cb25fcc482a04bfd3d912c877086",
       "bytes": 1267401,
       "width": 1440,
@@ -1438,7 +1438,7 @@
     {
       "id": "expansion-old-food-detail",
       "path": "/guide-media/v1/economy-and-expansion/expansion-old-food-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/economy-and-expansion/expansion-old-food-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/economy-and-expansion/expansion-old-food-detail.webp",
       "sha256": "f1da3a0c97904667cf37f003fade0c97afa7da21684111cc145c87f314e161b1",
       "bytes": 6942,
       "width": 153,
@@ -1450,7 +1450,7 @@
     {
       "id": "expansion-growth-detail",
       "path": "/guide-media/v1/economy-and-expansion/expansion-growth-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/economy-and-expansion/expansion-growth-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/economy-and-expansion/expansion-growth-detail.webp",
       "sha256": "872334c59c3afcb2103f69f9104be116199d808c22c034dfc258a9d4b5934147",
       "bytes": 6724,
       "width": 153,
@@ -1462,7 +1462,7 @@
     {
       "id": "expansion-site",
       "path": "/guide-media/v1/economy-and-expansion/expansion-site.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/economy-and-expansion/expansion-site.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/economy-and-expansion/expansion-site.webp",
       "sha256": "73aa0b8899a176363c6061aab22daf19a1c1b6c8d615b595e7cae14a8b1656de",
       "bytes": 141262,
       "width": 1440,
@@ -1474,7 +1474,7 @@
     {
       "id": "expansion-site-detail",
       "path": "/guide-media/v1/economy-and-expansion/expansion-site-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/economy-and-expansion/expansion-site-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/economy-and-expansion/expansion-site-detail.webp",
       "sha256": "f7afebfc585a5e53539d7e525aea47849598d5a5a34890877f5acf8376307e6e",
       "bytes": 5326,
       "width": 153,
@@ -1486,7 +1486,7 @@
     {
       "id": "expansion-completed",
       "path": "/guide-media/v1/economy-and-expansion/expansion-completed.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/economy-and-expansion/expansion-completed.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/economy-and-expansion/expansion-completed.webp",
       "sha256": "325b3242777933f25ab001138bc5bb600f36239e65b7b798e8e1c0a3441f1aad",
       "bytes": 148920,
       "width": 1440,
@@ -1498,7 +1498,7 @@
     {
       "id": "expansion-completed-detail",
       "path": "/guide-media/v1/economy-and-expansion/expansion-completed-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/economy-and-expansion/expansion-completed-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/economy-and-expansion/expansion-completed-detail.webp",
       "sha256": "c4d2884e0680331824c449bb86261dd1c537ec32da5a112bb442469f8f873aca",
       "bytes": 6666,
       "width": 153,
@@ -1510,7 +1510,7 @@
     {
       "id": "expansion-new-result-detail",
       "path": "/guide-media/v1/economy-and-expansion/expansion-new-result-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/economy-and-expansion/expansion-new-result-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/economy-and-expansion/expansion-new-result-detail.webp",
       "sha256": "f6413237cfef867156e4de746427974fe832d616e97e093ac95f7b9eaf3a4f3d",
       "bytes": 9432,
       "width": 153,
@@ -1522,7 +1522,7 @@
     {
       "id": "expansion-old-result-detail",
       "path": "/guide-media/v1/economy-and-expansion/expansion-old-result-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/economy-and-expansion/expansion-old-result-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/economy-and-expansion/expansion-old-result-detail.webp",
       "sha256": "3189ec6211ef510beca9406dc1a36d99feb870dda0e60f80c3c6037813e538c9",
       "bytes": 9572,
       "width": 153,
@@ -1534,7 +1534,7 @@
     {
       "id": "expansion-supply-poster",
       "path": "/guide-media/v1/economy-and-expansion/expansion-supply-poster.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/economy-and-expansion/expansion-supply-poster.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/economy-and-expansion/expansion-supply-poster.webp",
       "sha256": "325b3242777933f25ab001138bc5bb600f36239e65b7b798e8e1c0a3441f1aad",
       "bytes": 148920,
       "width": 1440,
@@ -1546,7 +1546,7 @@
     {
       "id": "expansion-supply-clip",
       "path": "/guide-media/v1/economy-and-expansion/expansion-supply-clip.mp4",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/economy-and-expansion/expansion-supply-clip.mp4",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/economy-and-expansion/expansion-supply-clip.mp4",
       "sha256": "f269466701dc801fff318556c0579ae75ed2e20aab1279ef7fce0bc0551c2ea6",
       "bytes": 1396224,
       "width": 1440,
@@ -1559,7 +1559,7 @@
     {
       "id": "choosing-ai-map",
       "path": "/guide-media/v1/choosing-an-ai/map.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/choosing-an-ai/map.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/choosing-an-ai/map.webp",
       "sha256": "2059e33b29e2162c238326b63707a3904657bbb55a5c118169a00bb91ed20af1",
       "bytes": 80302,
       "width": 1440,
@@ -1571,7 +1571,7 @@
     {
       "id": "choosing-ai-players",
       "path": "/guide-media/v1/choosing-an-ai/players.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/choosing-an-ai/players.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/choosing-an-ai/players.webp",
       "sha256": "64d3722d7edd5c94223b27b729bdc15a7af567ae37e8784a4abef30df2549464",
       "bytes": 52992,
       "width": 1440,
@@ -1583,7 +1583,7 @@
     {
       "id": "choosing-ai-controller",
       "path": "/guide-media/v1/choosing-an-ai/controller.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/choosing-an-ai/controller.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/choosing-an-ai/controller.webp",
       "sha256": "70123c962389d3ef6dbcd7865d4952241b2dca909083df5300df6aa6dfe390b9",
       "bytes": 55830,
       "width": 1440,
@@ -1595,7 +1595,7 @@
     {
       "id": "choosing-ai-roster",
       "path": "/guide-media/v1/choosing-an-ai/roster.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/choosing-an-ai/roster.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/choosing-an-ai/roster.webp",
       "sha256": "78a9abe10dfd7edb3fa9e02d84d7624ec5cdf3634f76b9252089598d7ee81f57",
       "bytes": 61822,
       "width": 1440,
@@ -1607,7 +1607,7 @@
     {
       "id": "choosing-ai-info",
       "path": "/guide-media/v1/choosing-an-ai/info.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/choosing-an-ai/info.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/choosing-an-ai/info.webp",
       "sha256": "49dfd4303f353ab4b4b5e6cc2b7007a249add00435dd4102b06054d7201369bd",
       "bytes": 301738,
       "width": 1440,
@@ -1619,7 +1619,7 @@
     {
       "id": "choosing-ai-standard",
       "path": "/guide-media/v1/choosing-an-ai/standard.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/choosing-an-ai/standard.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/choosing-an-ai/standard.webp",
       "sha256": "50c04dde4d3e24330beff6853dcbc925bd3be5b324379dbd51e2ffaa50ed3241",
       "bytes": 74896,
       "width": 1440,
@@ -1631,7 +1631,7 @@
     {
       "id": "choosing-ai-roster-detail",
       "path": "/guide-media/v1/choosing-an-ai/roster-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/choosing-an-ai/roster-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/choosing-an-ai/roster-detail.webp",
       "sha256": "5a28eb2aab9105bedfbb6719e17e78a2dedcf0fbaeb4ff36d0dba5ae6e804b11",
       "bytes": 11754,
       "width": 323,
@@ -1643,7 +1643,7 @@
     {
       "id": "choosing-ai-controller-detail",
       "path": "/guide-media/v1/choosing-an-ai/controller-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/choosing-an-ai/controller-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/choosing-an-ai/controller-detail.webp",
       "sha256": "46ab880617955a541eb425aa2df955c26f02c4134c3e5f283da212f43a245e07",
       "bytes": 5170,
       "width": 329,
@@ -1655,7 +1655,7 @@
     {
       "id": "numbi-setup",
       "path": "/guide-media/v1/ai-numbi/setup.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-numbi/setup.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-numbi/setup.webp",
       "sha256": "54f72a1bf13cf244a7ab48bdf1bd31b46e3dba4969b84e84813381f8a237eae0",
       "bytes": 69354,
       "width": 1440,
@@ -1667,7 +1667,7 @@
     {
       "id": "numbi-services",
       "path": "/guide-media/v1/ai-numbi/services.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-numbi/services.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-numbi/services.webp",
       "sha256": "9e21ac495306603dfdece5109e58d9af1ffdf9bbeb81060978945b6857d9950a",
       "bytes": 382832,
       "width": 1440,
@@ -1679,7 +1679,7 @@
     {
       "id": "numbi-hospital-detail",
       "path": "/guide-media/v1/ai-numbi/hospital-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-numbi/hospital-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-numbi/hospital-detail.webp",
       "sha256": "89585fb72fe061245d59d3d52fb6c87d3a74b45b4e7158f485c1eefa214495dc",
       "bytes": 3946,
       "width": 131,
@@ -1691,7 +1691,7 @@
     {
       "id": "numbi-scouted",
       "path": "/guide-media/v1/ai-numbi/scouted.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-numbi/scouted.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-numbi/scouted.webp",
       "sha256": "b0367ac70c47063fe4c18c5933f5c7e4588e0e94fad49d5e59e2fe3d64c6e7be",
       "bytes": 86880,
       "width": 855,
@@ -1703,7 +1703,7 @@
     {
       "id": "numbi-first-pressure",
       "path": "/guide-media/v1/ai-numbi/first-pressure.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-numbi/first-pressure.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-numbi/first-pressure.webp",
       "sha256": "84a4dc53647cd7f5a3d43a3a33fa4607e758ceed02f14d7db12ab9921aa4976b",
       "bytes": 377662,
       "width": 1440,
@@ -1715,7 +1715,7 @@
     {
       "id": "numbi-pressure-detail",
       "path": "/guide-media/v1/ai-numbi/pressure-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-numbi/pressure-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-numbi/pressure-detail.webp",
       "sha256": "f5e0344cb6b7b54d53985ee75e8b135aa244187708c4c8a9d199c5707bbacb23",
       "bytes": 56330,
       "width": 495,
@@ -1727,7 +1727,7 @@
     {
       "id": "numbi-after-pressure",
       "path": "/guide-media/v1/ai-numbi/after-pressure.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-numbi/after-pressure.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-numbi/after-pressure.webp",
       "sha256": "8108d3e2b67dab6beaa3c264e43fab75ea0d066f13910a3f66753e19e8ac59db",
       "bytes": 350774,
       "width": 1440,
@@ -1739,7 +1739,7 @@
     {
       "id": "numbi-first-pressure-clip",
       "path": "/guide-media/v1/ai-numbi/first-pressure.mp4",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-numbi/first-pressure.mp4",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-numbi/first-pressure.mp4",
       "sha256": "c2af615335f8d50ba0e80e8619fb022ff71567b0a033e3637124dfb06bcfa014",
       "bytes": 3109925,
       "width": 1440,
@@ -1752,7 +1752,7 @@
     {
       "id": "castor-setup-detail",
       "path": "/guide-media/v1/ai-castor/setup-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-castor/setup-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-castor/setup-detail.webp",
       "sha256": "0b58ff12810d33ba0f7de7bd16678279d4dd338b3656a84088561140f83c261c",
       "bytes": 1670,
       "width": 475,
@@ -1764,7 +1764,7 @@
     {
       "id": "castor-scout-early",
       "path": "/guide-media/v1/ai-castor/scout-early.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-castor/scout-early.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-castor/scout-early.webp",
       "sha256": "1ac5ad7a9b6fe7af82772922e61f7d143fb105ac681a98ead17441d04e980eb2",
       "bytes": 62622,
       "width": 570,
@@ -1776,7 +1776,7 @@
     {
       "id": "castor-scout-later",
       "path": "/guide-media/v1/ai-castor/scout-later.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-castor/scout-later.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-castor/scout-later.webp",
       "sha256": "05d07e5e340dccdac643bd7bfa4888a110d9a246d0e982f74e68dca76af1dc81",
       "bytes": 72830,
       "width": 600,
@@ -1788,7 +1788,7 @@
     {
       "id": "castor-ready-army",
       "path": "/guide-media/v1/ai-castor/ready-army.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-castor/ready-army.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-castor/ready-army.webp",
       "sha256": "161c0f639476cc12416fb92f80b3b030798797c104295a669de301690e45287f",
       "bytes": 356994,
       "width": 1440,
@@ -1800,7 +1800,7 @@
     {
       "id": "castor-ready-army-detail",
       "path": "/guide-media/v1/ai-castor/ready-army-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-castor/ready-army-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-castor/ready-army-detail.webp",
       "sha256": "f69bfcd457d1b25d96ccbfdf72b33e3f7d76fe7b3fcd9b4a58e2b6ca2a80895f",
       "bytes": 7562,
       "width": 132,
@@ -1812,7 +1812,7 @@
     {
       "id": "castor-ready-tower-detail",
       "path": "/guide-media/v1/ai-castor/ready-tower-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-castor/ready-tower-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-castor/ready-tower-detail.webp",
       "sha256": "7656313f0f253981b7376a8bb6700809c46f0538f3430d886810035204ca6b4b",
       "bytes": 7654,
       "width": 132,
@@ -1824,7 +1824,7 @@
     {
       "id": "castor-probe-contact",
       "path": "/guide-media/v1/ai-castor/probe-contact.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-castor/probe-contact.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-castor/probe-contact.webp",
       "sha256": "6d95bd801b530dde87ef87069c307c66a126d60fbf478d1c5b78056ca09d1561",
       "bytes": 339434,
       "width": 1440,
@@ -1836,7 +1836,7 @@
     {
       "id": "castor-probe-flag-detail",
       "path": "/guide-media/v1/ai-castor/probe-flag-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-castor/probe-flag-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-castor/probe-flag-detail.webp",
       "sha256": "9ca99c555d3871c1c00c0851d06c5c9ec6f4d96e582baab31339c473fc22993e",
       "bytes": 4398,
       "width": 132,
@@ -1848,7 +1848,7 @@
     {
       "id": "castor-probe-damage-detail",
       "path": "/guide-media/v1/ai-castor/probe-damage-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-castor/probe-damage-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-castor/probe-damage-detail.webp",
       "sha256": "405615420d2ca00c183232e8ddd5969dd274d23cbce2c02ba851906e5f21ec0e",
       "bytes": 7552,
       "width": 132,
@@ -1860,7 +1860,7 @@
     {
       "id": "castor-return-detail",
       "path": "/guide-media/v1/ai-castor/return-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-castor/return-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-castor/return-detail.webp",
       "sha256": "44eb7ebc8377c8aa1a907e3771ea84e5b11a83e782812ad35868349be9072063",
       "bytes": 7452,
       "width": 132,
@@ -1872,7 +1872,7 @@
     {
       "id": "castor-probe-return",
       "path": "/guide-media/v1/ai-castor/probe-return.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-castor/probe-return.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-castor/probe-return.webp",
       "sha256": "55be286497c9fc85888eb903808a28d667e74b3619b0e7c1c0ff305816cff8f3",
       "bytes": 364452,
       "width": 1440,
@@ -1884,7 +1884,7 @@
     {
       "id": "castor-contact-poster",
       "path": "/guide-media/v1/ai-castor/probe-contact-poster.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-castor/probe-contact-poster.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-castor/probe-contact-poster.webp",
       "sha256": "f605c08a69d720a366f7322d8bf51873ff1db77e6988385ca138383e359d9ee4",
       "bytes": 272842,
       "width": 1440,
@@ -1896,7 +1896,7 @@
     {
       "id": "castor-contact-clip",
       "path": "/guide-media/v1/ai-castor/probe-contact.mp4",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-castor/probe-contact.mp4",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-castor/probe-contact.mp4",
       "sha256": "c101ea915ea8fb8bdf71d0b0a66be17b516cd544d1a38dc6d7d6469af44ea0a0",
       "bytes": 1468029,
       "width": 1440,
@@ -1909,7 +1909,7 @@
     {
       "id": "econo-profile-detail",
       "path": "/guide-media/v1/ai-econo/econo-profile-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-econo/econo-profile-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-econo/econo-profile-detail.webp",
       "sha256": "373bc8bd4093e00b1155f834902913f0c9f278e4b15da85e65d72258a70c0ebe",
       "bytes": 2986,
       "width": 490,
@@ -1921,7 +1921,7 @@
     {
       "id": "econo-first-meals",
       "path": "/guide-media/v1/ai-econo/econo-first-meals.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-econo/econo-first-meals.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-econo/econo-first-meals.webp",
       "sha256": "c884cf10c6fd3b2c498ee2dddc08e2853fe5f11aa349e4a41ce28778db7066eb",
       "bytes": 98224,
       "width": 1440,
@@ -1933,7 +1933,7 @@
     {
       "id": "econo-first-meals-detail",
       "path": "/guide-media/v1/ai-econo/econo-first-meals-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-econo/econo-first-meals-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-econo/econo-first-meals-detail.webp",
       "sha256": "399380c34a0e5b21b40dad31acaaed59d9f63f57f83faf0a87663d50d491c6db",
       "bytes": 6812,
       "width": 133,
@@ -1945,7 +1945,7 @@
     {
       "id": "econo-scout-production-detail",
       "path": "/guide-media/v1/ai-econo/econo-scout-production-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-econo/econo-scout-production-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-econo/econo-scout-production-detail.webp",
       "sha256": "8a4fc490210f0f57fe026a5ada9e0b13fc22b14df0aa52db74d3be7ad0c3a81c",
       "bytes": 7390,
       "width": 138,
@@ -1957,7 +1957,7 @@
     {
       "id": "econo-production-released-detail",
       "path": "/guide-media/v1/ai-econo/econo-production-released-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-econo/econo-production-released-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-econo/econo-production-released-detail.webp",
       "sha256": "91ebbaca008ff50c839c71e1c57f4cbf09c7f396a4bcead596b3f7ffb3b97e41",
       "bytes": 7032,
       "width": 160,
@@ -1969,7 +1969,7 @@
     {
       "id": "econo-contested-orchard",
       "path": "/guide-media/v1/ai-econo/econo-contested-orchard.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-econo/econo-contested-orchard.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-econo/econo-contested-orchard.webp",
       "sha256": "160651b54737a78de663fee34d3a49ac1ad078ed4ef535a4e04eb931ccd37091",
       "bytes": 61096,
       "width": 740,
@@ -1981,7 +1981,7 @@
     {
       "id": "econo-scouted-services",
       "path": "/guide-media/v1/ai-econo/econo-scouted-services.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-econo/econo-scouted-services.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-econo/econo-scouted-services.webp",
       "sha256": "4d8b1708776e9a1f63c5f7aca4da2d2b480145fdbe509697d72364505ca79bce",
       "bytes": 61680,
       "width": 944,
@@ -1993,7 +1993,7 @@
     {
       "id": "econo-home-fruit",
       "path": "/guide-media/v1/ai-econo/econo-home-fruit.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-econo/econo-home-fruit.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-econo/econo-home-fruit.webp",
       "sha256": "557d53b8bec22fc5d103ae8c7afb4594ce2a705c1837e330bfab807602091818",
       "bytes": 193016,
       "width": 1440,
@@ -2005,7 +2005,7 @@
     {
       "id": "econo-home-fruit-detail",
       "path": "/guide-media/v1/ai-econo/econo-home-fruit-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-econo/econo-home-fruit-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-econo/econo-home-fruit-detail.webp",
       "sha256": "bf593b86d64dac38996ab4b287d1d64a93c7341520b67b42a9f557b7588d50c2",
       "bytes": 7286,
       "width": 160,
@@ -2017,7 +2017,7 @@
     {
       "id": "econo-hauling-poster",
       "path": "/guide-media/v1/ai-econo/econo-hauling-poster.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-econo/econo-hauling-poster.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-econo/econo-hauling-poster.webp",
       "sha256": "bb29d2de5919c0e2b058c9d10a03753c3902689feaef489b02276657fbe21069",
       "bytes": 96890,
       "width": 1440,
@@ -2029,7 +2029,7 @@
     {
       "id": "econo-hauling-clip",
       "path": "/guide-media/v1/ai-econo/econo-hauling-clip.mp4",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-econo/econo-hauling-clip.mp4",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-econo/econo-hauling-clip.mp4",
       "sha256": "3115b2d89cdf8f015c01e2acb0c63ba3027ca79278830a0668df0dfc5800aded",
       "bytes": 1836588,
       "width": 1440,
@@ -2042,7 +2042,7 @@
     {
       "id": "warrush-selection",
       "path": "/guide-media/v1/ai-warrush/warrush-selection.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-warrush/warrush-selection.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-warrush/warrush-selection.webp",
       "sha256": "4fbc68565e627e8366a7d3fcaf09bc246506f7c62ad87e62b45b9a62ce4f8636",
       "bytes": 1246,
       "width": 460,
@@ -2054,7 +2054,7 @@
     {
       "id": "warrush-opening-food",
       "path": "/guide-media/v1/ai-warrush/warrush-opening-food.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-warrush/warrush-opening-food.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-warrush/warrush-opening-food.webp",
       "sha256": "aab67dc0896cae5db9322d399c5399caf0b9f7fd5c60a789dc62a6f42d948024",
       "bytes": 121440,
       "width": 1440,
@@ -2066,7 +2066,7 @@
     {
       "id": "warrush-services",
       "path": "/guide-media/v1/ai-warrush/warrush-services.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-warrush/warrush-services.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-warrush/warrush-services.webp",
       "sha256": "10bf9af8a7b507541a02bef282a3049e5f7cfeda3296cccb4b3b6edd84877890",
       "bytes": 220752,
       "width": 1440,
@@ -2078,7 +2078,7 @@
     {
       "id": "warrush-food-before-detail",
       "path": "/guide-media/v1/ai-warrush/warrush-food-before-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-warrush/warrush-food-before-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-warrush/warrush-food-before-detail.webp",
       "sha256": "9affab4bba817e678afedc66484f9187ed5c071afab9598fef1cf4738a4615dd",
       "bytes": 9124,
       "width": 149,
@@ -2090,7 +2090,7 @@
     {
       "id": "warrush-contact",
       "path": "/guide-media/v1/ai-warrush/warrush-contact.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-warrush/warrush-contact.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-warrush/warrush-contact.webp",
       "sha256": "49b22dfd31d33efd496931cb4ae832dab32d50bf5ee0cb5931972eec774ecdda",
       "bytes": 163316,
       "width": 1440,
@@ -2102,7 +2102,7 @@
     {
       "id": "warrush-growth-detail",
       "path": "/guide-media/v1/ai-warrush/warrush-growth-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-warrush/warrush-growth-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-warrush/warrush-growth-detail.webp",
       "sha256": "78b32042784d4447db82660cddb087815e215c5b7cf4ade01b6836e7c1dbbbe5",
       "bytes": 6364,
       "width": 149,
@@ -2114,7 +2114,7 @@
     {
       "id": "warrush-guard",
       "path": "/guide-media/v1/ai-warrush/warrush-guard.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-warrush/warrush-guard.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-warrush/warrush-guard.webp",
       "sha256": "c39c21d2ac9443b6e8723368438ccf40d25258a565ea133adffe7b609cdef086",
       "bytes": 15680,
       "width": 450,
@@ -2126,7 +2126,7 @@
     {
       "id": "warrush-food-after-detail",
       "path": "/guide-media/v1/ai-warrush/warrush-food-after-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-warrush/warrush-food-after-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-warrush/warrush-food-after-detail.webp",
       "sha256": "3bf09e94f48960447390c51b1fe0732dbb16341486d49f604790efa2befd1ed2",
       "bytes": 6686,
       "width": 149,
@@ -2138,7 +2138,7 @@
     {
       "id": "warrush-hold-poster",
       "path": "/guide-media/v1/ai-warrush/warrush-hold-poster.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-warrush/warrush-hold-poster.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-warrush/warrush-hold-poster.webp",
       "sha256": "49b22dfd31d33efd496931cb4ae832dab32d50bf5ee0cb5931972eec774ecdda",
       "bytes": 163316,
       "width": 1440,
@@ -2150,7 +2150,7 @@
     {
       "id": "warrush-hold-clip",
       "path": "/guide-media/v1/ai-warrush/warrush-hold-clip.mp4",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-warrush/warrush-hold-clip.mp4",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-warrush/warrush-hold-clip.mp4",
       "sha256": "7bd50ade5b9ff03f1b2e144b2c65a14eb50f7d81c5401edf0c234a728cf290e6",
       "bytes": 2189812,
       "width": 1440,
@@ -2168,7 +2168,7 @@
     {
       "id": "warrush-barracks-detail",
       "path": "/guide-media/v1/ai-warrush/warrush-barracks-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-warrush/warrush-barracks-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-warrush/warrush-barracks-detail.webp",
       "sha256": "4e1727a591e2ba49863d90aa7358d9526f2707a2fec56e7193da702504ddac6d",
       "bytes": 3398,
       "width": 149,
@@ -2180,7 +2180,7 @@
     {
       "id": "warrush-hospital-detail",
       "path": "/guide-media/v1/ai-warrush/warrush-hospital-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-warrush/warrush-hospital-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-warrush/warrush-hospital-detail.webp",
       "sha256": "1903dcf93c48785699cefe7419afae2c024dd71c311748e25034bd2b8a5e30dc",
       "bytes": 3314,
       "width": 149,
@@ -2192,7 +2192,7 @@
     {
       "id": "cortex-selection",
       "path": "/guide-media/v1/ai-cortex/cortex-selection.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cortex/cortex-selection.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cortex/cortex-selection.webp",
       "sha256": "8d82674e37b86affcfa08b15deeb5d14ff4e2cb07dbc236bef3054b07cd8288d",
       "bytes": 1230,
       "width": 533,
@@ -2204,7 +2204,7 @@
     {
       "id": "cortex-opening-food",
       "path": "/guide-media/v1/ai-cortex/cortex-opening-food.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cortex/cortex-opening-food.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cortex/cortex-opening-food.webp",
       "sha256": "90ebbc49330d2d844f23feca0e0956aec6c8de1fecfefb17dc8968cdc627638a",
       "bytes": 185524,
       "width": 1440,
@@ -2216,7 +2216,7 @@
     {
       "id": "cortex-opening-food-detail",
       "path": "/guide-media/v1/ai-cortex/cortex-opening-food-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cortex/cortex-opening-food-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cortex/cortex-opening-food-detail.webp",
       "sha256": "a06139274650c0c92f5d4286cf3d4b778d1571189925eaf84e6b836bf265acb6",
       "bytes": 6072,
       "width": 149,
@@ -2228,7 +2228,7 @@
     {
       "id": "cortex-school-detail",
       "path": "/guide-media/v1/ai-cortex/cortex-school-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cortex/cortex-school-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cortex/cortex-school-detail.webp",
       "sha256": "bc2243004fed1a4473f7deb272eba1dd287ed8be4c4698350a0430ec95a3f7b8",
       "bytes": 6710,
       "width": 149,
@@ -2240,7 +2240,7 @@
     {
       "id": "cortex-pressure",
       "path": "/guide-media/v1/ai-cortex/cortex-pressure.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cortex/cortex-pressure.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cortex/cortex-pressure.webp",
       "sha256": "1970ffa8eaee7deffcff4f128d00ec357ce7d5331a1fb149676dcceeb03ca2fe",
       "bytes": 152250,
       "width": 1440,
@@ -2252,7 +2252,7 @@
     {
       "id": "cortex-development",
       "path": "/guide-media/v1/ai-cortex/cortex-development.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cortex/cortex-development.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cortex/cortex-development.webp",
       "sha256": "99d5362b2190a5314ba1362b9f507a4e7b9af8c3282c8f830827891697842083",
       "bytes": 147556,
       "width": 1440,
@@ -2264,7 +2264,7 @@
     {
       "id": "cortex-development-detail",
       "path": "/guide-media/v1/ai-cortex/cortex-development-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cortex/cortex-development-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cortex/cortex-development-detail.webp",
       "sha256": "d987680acb75734f6f18df2331a32f3a618e56b6c0353414ac4a32fa6854b34a",
       "bytes": 31724,
       "width": 650,
@@ -2276,7 +2276,7 @@
     {
       "id": "cortex-growth-detail",
       "path": "/guide-media/v1/ai-cortex/cortex-growth-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cortex/cortex-growth-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cortex/cortex-growth-detail.webp",
       "sha256": "e482b5273048a375f597065bc23754bbda7d2e81ea80d813a67021776693ba95",
       "bytes": 6060,
       "width": 149,
@@ -2288,7 +2288,7 @@
     {
       "id": "cortex-defense",
       "path": "/guide-media/v1/ai-cortex/cortex-defense.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cortex/cortex-defense.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cortex/cortex-defense.webp",
       "sha256": "6058d02fc62b4daa39321d38601a8849cfe5f6f89e279de9fa1168be36b55545",
       "bytes": 193704,
       "width": 1440,
@@ -2300,7 +2300,7 @@
     {
       "id": "cortex-food-after-detail",
       "path": "/guide-media/v1/ai-cortex/cortex-food-after-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cortex/cortex-food-after-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cortex/cortex-food-after-detail.webp",
       "sha256": "aa7facbb32e4bf3c15a4c2aa2146afc43e91881b8b0326dc657a784698d40ceb",
       "bytes": 8504,
       "width": 149,
@@ -2312,7 +2312,7 @@
     {
       "id": "cortex-hospital-detail",
       "path": "/guide-media/v1/ai-cortex/cortex-hospital-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cortex/cortex-hospital-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cortex/cortex-hospital-detail.webp",
       "sha256": "f7410b619ac64ddec72490e547756d363eaffec83835df01a025391bd36564b8",
       "bytes": 2856,
       "width": 149,
@@ -2324,7 +2324,7 @@
     {
       "id": "cortex-hold-poster",
       "path": "/guide-media/v1/ai-cortex/cortex-hold-poster.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cortex/cortex-hold-poster.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cortex/cortex-hold-poster.webp",
       "sha256": "8f7130b23933f3624fd638a57edccb6008c780e9b8c9a26beab519d836e7d06a",
       "bytes": 198188,
       "width": 1440,
@@ -2336,7 +2336,7 @@
     {
       "id": "cortex-hold-clip",
       "path": "/guide-media/v1/ai-cortex/cortex-hold-clip.mp4",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cortex/cortex-hold-clip.mp4",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cortex/cortex-hold-clip.mp4",
       "sha256": "9f21ac9ff85931b0ffcbb29467f0780a134f3cbe1d491c5e2be0f8a354dde93a",
       "bytes": 2511113,
       "width": 1440,
@@ -2350,7 +2350,7 @@
     {
       "id": "cabino-profile",
       "path": "/guide-media/v1/ai-cabino/cabino-profile.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cabino/cabino-profile.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cabino/cabino-profile.webp",
       "sha256": "1858f6a7f0a36d2533ea2d729eb16bc49cd1a635b526c05ff0b15bb5e8fa5d88",
       "bytes": 4944,
       "width": 533,
@@ -2362,7 +2362,7 @@
     {
       "id": "cabino-first-inn",
       "path": "/guide-media/v1/ai-cabino/cabino-first-inn.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cabino/cabino-first-inn.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cabino/cabino-first-inn.webp",
       "sha256": "78e41f441922f65d068be37ba1d73c495788cfeb27e37993ea586121ede1d5ed",
       "bytes": 227910,
       "width": 1440,
@@ -2374,7 +2374,7 @@
     {
       "id": "cabino-first-inn-detail",
       "path": "/guide-media/v1/ai-cabino/cabino-first-inn-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cabino/cabino-first-inn-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cabino/cabino-first-inn-detail.webp",
       "sha256": "4b0ea3a82db62cc09728f1e701fd62a6fa01fda02508dc0f29a085a2ac0d9bca",
       "bytes": 6530,
       "width": 142,
@@ -2386,7 +2386,7 @@
     {
       "id": "cabino-scout-production",
       "path": "/guide-media/v1/ai-cabino/cabino-scout-production.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cabino/cabino-scout-production.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cabino/cabino-scout-production.webp",
       "sha256": "ebf5fb4247f6a60fa717c46ac2fd24c0315c20160503d5c3f90188cf4100bacf",
       "bytes": 6358,
       "width": 142,
@@ -2398,7 +2398,7 @@
     {
       "id": "cabino-town",
       "path": "/guide-media/v1/ai-cabino/cabino-town.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cabino/cabino-town.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cabino/cabino-town.webp",
       "sha256": "7000aa49328ae7eda5875e6c06148432b88abf561fb4ecea7c68f66d6e2edbe2",
       "bytes": 210028,
       "width": 1278,
@@ -2410,7 +2410,7 @@
     {
       "id": "cabino-scout-request",
       "path": "/guide-media/v1/ai-cabino/cabino-scout-request.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cabino/cabino-scout-request.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cabino/cabino-scout-request.webp",
       "sha256": "d02ead6b7d6986f190db0074e897cbdad674319a183d240260bf7dd2703a50bd",
       "bytes": 7718,
       "width": 142,
@@ -2422,7 +2422,7 @@
     {
       "id": "cabino-growth-released",
       "path": "/guide-media/v1/ai-cabino/cabino-growth-released.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cabino/cabino-growth-released.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cabino/cabino-growth-released.webp",
       "sha256": "63a276f97f2f1b6d398b1910ef66d83e24f8a43dbb73fdaf03552109a1ec237e",
       "bytes": 6408,
       "width": 142,
@@ -2434,7 +2434,7 @@
     {
       "id": "cabino-service-line",
       "path": "/guide-media/v1/ai-cabino/cabino-service-line.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cabino/cabino-service-line.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cabino/cabino-service-line.webp",
       "sha256": "69834f441620bbd9874198e6c2353620400eeaeac5138f3df7efecb53a7c600c",
       "bytes": 326400,
       "width": 1440,
@@ -2446,7 +2446,7 @@
     {
       "id": "cabino-meals-detail",
       "path": "/guide-media/v1/ai-cabino/cabino-meals-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cabino/cabino-meals-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cabino/cabino-meals-detail.webp",
       "sha256": "df6b35cd9c2383b13f6ede374b98ad3f06bad6ff64b486394d43ad2fc47de372",
       "bytes": 9126,
       "width": 142,
@@ -2458,7 +2458,7 @@
     {
       "id": "cabino-healing-detail",
       "path": "/guide-media/v1/ai-cabino/cabino-healing-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cabino/cabino-healing-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cabino/cabino-healing-detail.webp",
       "sha256": "8d877adbe2a7c442c5f2fe328c88c4d2fb805d6b34cbfd1a240f1df714071560",
       "bytes": 3310,
       "width": 142,
@@ -2470,7 +2470,7 @@
     {
       "id": "cabino-service-poster",
       "path": "/guide-media/v1/ai-cabino/cabino-service-poster.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cabino/cabino-service-poster.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cabino/cabino-service-poster.webp",
       "sha256": "52149f87ab366135c9f90b836cbcf586de571de5482448723a86c9415c3a45f5",
       "bytes": 322406,
       "width": 1440,
@@ -2482,7 +2482,7 @@
     {
       "id": "cabino-service-clip",
       "path": "/guide-media/v1/ai-cabino/cabino-service-clip.mp4",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-cabino/cabino-service-clip.mp4",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-cabino/cabino-service-clip.mp4",
       "sha256": "0d90b084cdb522b60632ed95d9994e2e298e66e19fc9e9ccfc873fc2c5b4eee3",
       "bytes": 2424637,
       "width": 1440,
@@ -2495,7 +2495,7 @@
     {
       "id": "nicowar-setup-detail",
       "path": "/guide-media/v1/ai-nicowar/nicowar-setup-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-nicowar/nicowar-setup-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-nicowar/nicowar-setup-detail.webp",
       "sha256": "0690459757f92a6e13b33a76cf156d88d18a77fee0578044cc287caa89ca4d6e",
       "bytes": 1352,
       "width": 300,
@@ -2507,7 +2507,7 @@
     {
       "id": "nicowar-profile-detail",
       "path": "/guide-media/v1/ai-nicowar/nicowar-profile-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-nicowar/nicowar-profile-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-nicowar/nicowar-profile-detail.webp",
       "sha256": "e7e1f13ba509388559655a63c8427c2822310f0cc9b709a70f89e9bfcdc3834d",
       "bytes": 2084,
       "width": 351,
@@ -2519,7 +2519,7 @@
     {
       "id": "nicowar-first-food-detail",
       "path": "/guide-media/v1/ai-nicowar/nicowar-first-food-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-nicowar/nicowar-first-food-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-nicowar/nicowar-first-food-detail.webp",
       "sha256": "17ec0b6385e26245d6dfab9605b92d9239bef9d38b4f41ae3fa7270ad73b4473",
       "bytes": 8046,
       "width": 142,
@@ -2531,7 +2531,7 @@
     {
       "id": "nicowar-scout",
       "path": "/guide-media/v1/ai-nicowar/nicowar-scout.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-nicowar/nicowar-scout.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-nicowar/nicowar-scout.webp",
       "sha256": "25b658480e92183afc67b9597cf547dc15b246670117b82c6d88599beb59043a",
       "bytes": 223798,
       "width": 1440,
@@ -2543,7 +2543,7 @@
     {
       "id": "nicowar-scout-alert-detail",
       "path": "/guide-media/v1/ai-nicowar/nicowar-scout-alert-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-nicowar/nicowar-scout-alert-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-nicowar/nicowar-scout-alert-detail.webp",
       "sha256": "08f4454c0d63e5de243ca6917e77179db7e1b4dea02fada05851c90c5b533f2e",
       "bytes": 9318,
       "width": 376,
@@ -2555,7 +2555,7 @@
     {
       "id": "nicowar-lost-services",
       "path": "/guide-media/v1/ai-nicowar/nicowar-lost-services.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-nicowar/nicowar-lost-services.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-nicowar/nicowar-lost-services.webp",
       "sha256": "6931beac65090c17ed3bec348bef08b9cfeb3b325255b4d04997629dd40b15e8",
       "bytes": 174066,
       "width": 1440,
@@ -2567,7 +2567,7 @@
     {
       "id": "nicowar-loss-detail",
       "path": "/guide-media/v1/ai-nicowar/nicowar-loss-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-nicowar/nicowar-loss-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-nicowar/nicowar-loss-detail.webp",
       "sha256": "990dc24ac69137cda07621a3f29841852eee80ca654cefd1e6a17fbe116aa1b7",
       "bytes": 7332,
       "width": 670,
@@ -2579,7 +2579,7 @@
     {
       "id": "nicowar-raw-flag-detail",
       "path": "/guide-media/v1/ai-nicowar/nicowar-raw-flag-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-nicowar/nicowar-raw-flag-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-nicowar/nicowar-raw-flag-detail.webp",
       "sha256": "b628f72fd8e91371d6e3436f5af6e2d7e68aa2ca05d8dee8b579fa3bec8547d0",
       "bytes": 7796,
       "width": 142,
@@ -2591,7 +2591,7 @@
     {
       "id": "nicowar-empty-barracks-detail",
       "path": "/guide-media/v1/ai-nicowar/nicowar-empty-barracks-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-nicowar/nicowar-empty-barracks-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-nicowar/nicowar-empty-barracks-detail.webp",
       "sha256": "f08662a762dbb25e9ed1e173bb79baf9cb00e0b52f8e298c68e68e44757f995a",
       "bytes": 3694,
       "width": 142,
@@ -2603,7 +2603,7 @@
     {
       "id": "nicowar-qualified-request-detail",
       "path": "/guide-media/v1/ai-nicowar/nicowar-qualified-request-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-nicowar/nicowar-qualified-request-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-nicowar/nicowar-qualified-request-detail.webp",
       "sha256": "80b8db1c9c48c0ab0980df7d4cd65569e62350658bbd7bcd063d53c1798f1fd8",
       "bytes": 7738,
       "width": 142,
@@ -2615,7 +2615,7 @@
     {
       "id": "nicowar-barracks-training-detail",
       "path": "/guide-media/v1/ai-nicowar/nicowar-barracks-training-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-nicowar/nicowar-barracks-training-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-nicowar/nicowar-barracks-training-detail.webp",
       "sha256": "f832b8c7be06f55e25b691832d199d508c731f10a309c95d32454454e9e9131f",
       "bytes": 3854,
       "width": 142,
@@ -2627,7 +2627,7 @@
     {
       "id": "nicowar-qualified-result-detail",
       "path": "/guide-media/v1/ai-nicowar/nicowar-qualified-result-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-nicowar/nicowar-qualified-result-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-nicowar/nicowar-qualified-result-detail.webp",
       "sha256": "d4c7650e944b1b009877475e2917701cec8613dd181a4d7a3dcdaf8550c381af",
       "bytes": 7704,
       "width": 142,
@@ -2639,7 +2639,7 @@
     {
       "id": "nicowar-retry-food-detail",
       "path": "/guide-media/v1/ai-nicowar/nicowar-retry-food-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-nicowar/nicowar-retry-food-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-nicowar/nicowar-retry-food-detail.webp",
       "sha256": "9e561d6f1556a2fc2e4da97a2b3ce3031ca2852e92f05990d2b8c0843137e581",
       "bytes": 8914,
       "width": 142,
@@ -2651,7 +2651,7 @@
     {
       "id": "nicowar-training-poster",
       "path": "/guide-media/v1/ai-nicowar/nicowar-training-poster.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-nicowar/nicowar-training-poster.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-nicowar/nicowar-training-poster.webp",
       "sha256": "3337aacc2c6a0e781c669e1687f697fe9204441630b77f5e2620aeb3c1a80a51",
       "bytes": 214062,
       "width": 1440,
@@ -2663,7 +2663,7 @@
     {
       "id": "nicowar-training-clip",
       "path": "/guide-media/v1/ai-nicowar/nicowar-training-clip.mp4",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-nicowar/nicowar-training-clip.mp4",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-nicowar/nicowar-training-clip.mp4",
       "sha256": "3a4883ec6e172474f0e764a171bf42da76ec2691e21f1b1f8695e55f797a21ec",
       "bytes": 3096371,
       "width": 1440,
@@ -2677,7 +2677,7 @@
     {
       "id": "maxima-selection",
       "path": "/guide-media/v1/ai-maxima/maxima-selection.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-maxima/maxima-selection.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-maxima/maxima-selection.webp",
       "sha256": "f87d1a0b8d7de72dc0001c7fb2caf3574a97f0052e8b0585f918f2a0805699d2",
       "bytes": 4652,
       "width": 603,
@@ -2689,7 +2689,7 @@
     {
       "id": "maxima-opening-site",
       "path": "/guide-media/v1/ai-maxima/maxima-opening-site.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-maxima/maxima-opening-site.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-maxima/maxima-opening-site.webp",
       "sha256": "b96a41645d0c4f11ed401c7e29ec8af6ccedf7a90d6f68abe4fc830f6a404506",
       "bytes": 206596,
       "width": 1440,
@@ -2701,7 +2701,7 @@
     {
       "id": "maxima-site-detail",
       "path": "/guide-media/v1/ai-maxima/maxima-site-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-maxima/maxima-site-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-maxima/maxima-site-detail.webp",
       "sha256": "d33cbb7d5900af22dd196f3a3393d6a285c340e8053bf492eeab655587a7c7a8",
       "bytes": 5262,
       "width": 149,
@@ -2713,7 +2713,7 @@
     {
       "id": "maxima-production-paused",
       "path": "/guide-media/v1/ai-maxima/maxima-production-paused.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-maxima/maxima-production-paused.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-maxima/maxima-production-paused.webp",
       "sha256": "e2e1ac7f115e60e1a5c59846b1d6ff16dee64576beba7ea0452e02a5e5ae9ac5",
       "bytes": 6566,
       "width": 149,
@@ -2725,7 +2725,7 @@
     {
       "id": "maxima-supplied-opening",
       "path": "/guide-media/v1/ai-maxima/maxima-supplied-opening.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-maxima/maxima-supplied-opening.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-maxima/maxima-supplied-opening.webp",
       "sha256": "908126294d78a2889ec2cede86207d5ca6bce175ce80accc195346eea33e74f0",
       "bytes": 223446,
       "width": 1440,
@@ -2737,7 +2737,7 @@
     {
       "id": "maxima-food-detail",
       "path": "/guide-media/v1/ai-maxima/maxima-food-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-maxima/maxima-food-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-maxima/maxima-food-detail.webp",
       "sha256": "c3c73faa67112990b7fa44aa783154d74237e77594788658451e889bd91d5913",
       "bytes": 6520,
       "width": 149,
@@ -2749,7 +2749,7 @@
     {
       "id": "maxima-conversion",
       "path": "/guide-media/v1/ai-maxima/maxima-conversion.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-maxima/maxima-conversion.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-maxima/maxima-conversion.webp",
       "sha256": "c74c1ae6e017be350eed3ea048fe802ca01640772a18f686788b03d8e7457eb9",
       "bytes": 178792,
       "width": 1440,
@@ -2761,7 +2761,7 @@
     {
       "id": "maxima-conversion-detail",
       "path": "/guide-media/v1/ai-maxima/maxima-conversion-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-maxima/maxima-conversion-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-maxima/maxima-conversion-detail.webp",
       "sha256": "afcad7d6a5b90e88da7113d56e20af386e2ef2434d42ef67988e57c68d759a24",
       "bytes": 3532,
       "width": 510,
@@ -2773,7 +2773,7 @@
     {
       "id": "maxima-defense",
       "path": "/guide-media/v1/ai-maxima/maxima-defense.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-maxima/maxima-defense.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-maxima/maxima-defense.webp",
       "sha256": "3bea28406009f7088d19c06dee6cbb1e30cb94c8508f9f18c2bff0f3c174ad5d",
       "bytes": 239248,
       "width": 1440,
@@ -2785,7 +2785,7 @@
     {
       "id": "maxima-result-detail",
       "path": "/guide-media/v1/ai-maxima/maxima-result-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-maxima/maxima-result-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-maxima/maxima-result-detail.webp",
       "sha256": "cf48ae5c36a09e36972592a2e7a01df542c3c03a233a327adfe445fcde590e65",
       "bytes": 8038,
       "width": 149,
@@ -2797,7 +2797,7 @@
     {
       "id": "maxima-front",
       "path": "/guide-media/v1/ai-maxima/maxima-front.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-maxima/maxima-front.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-maxima/maxima-front.webp",
       "sha256": "842145b55a631f4ae4f5f8e84766c56a3ff2496aa4d5801f2f0f5f2b20d31d46",
       "bytes": 160624,
       "width": 1440,
@@ -2809,7 +2809,7 @@
     {
       "id": "maxima-warrior-detail",
       "path": "/guide-media/v1/ai-maxima/maxima-warrior-detail.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-maxima/maxima-warrior-detail.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-maxima/maxima-warrior-detail.webp",
       "sha256": "9b7206583f6dd0a716f9580ff041665b63b8e599451ce6280a3344534980c234",
       "bytes": 6378,
       "width": 149,
@@ -2821,7 +2821,7 @@
     {
       "id": "maxima-conversion-history",
       "path": "/guide-media/v1/ai-maxima/maxima-conversion-history.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-maxima/maxima-conversion-history.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-maxima/maxima-conversion-history.webp",
       "sha256": "b4de9a91eff328914bd19f95f341fa89010b3212863b02189bf5250635b94c9f",
       "bytes": 43262,
       "width": 1440,
@@ -2833,7 +2833,7 @@
     {
       "id": "maxima-practice-summary",
       "path": "/guide-media/v1/ai-maxima/maxima-practice-summary.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-maxima/maxima-practice-summary.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-maxima/maxima-practice-summary.webp",
       "sha256": "ea73383a9a58e9845e6906505a16c5171e03f343e3804d9929121ed4bb1e9a05",
       "bytes": 7934,
       "width": 1170,
@@ -2845,7 +2845,7 @@
     {
       "id": "maxima-clip-poster",
       "path": "/guide-media/v1/ai-maxima/maxima-clip-poster.webp",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-maxima/maxima-clip-poster.webp",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-maxima/maxima-clip-poster.webp",
       "sha256": "70b5ab57d9d5a0bd25a3a832d31d6fb95c16ccf9a556dcddbf27eb4974523df6",
       "bytes": 206234,
       "width": 1440,
@@ -2857,7 +2857,7 @@
     {
       "id": "maxima-pressure-clip",
       "path": "/guide-media/v1/ai-maxima/maxima-pressure-clip.mp4",
-      "url": "https://storage.googleapis.com/glob2-website-public-pharaoh-418820/guide-media/v1/ai-maxima/maxima-pressure-clip.mp4",
+      "url": "https://storage.googleapis.com/glob2-website-public/guide-media/v1/ai-maxima/maxima-pressure-clip.mp4",
       "sha256": "e75d77556d59cdb61915ef0bcc843b7e1f6daecaadd490c7463a4bb912917752",
       "bytes": 1833081,
       "width": 1440,

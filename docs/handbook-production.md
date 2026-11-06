@@ -30,7 +30,7 @@ Use the game's recorder when available or browser video recording, then select s
 
 ## Media storage and reproducible builds
 
-Approved media lives in the existing public bucket `glob2-website-public-pharaoh-418820`, under versioned `guide-media/` paths. Raw recordings and review artifacts stay ignored or in external evidence storage. Never put private account data in the public bucket.
+Approved media lives in the existing public bucket `glob2-website-public`, under versioned `guide-media/` paths. Raw recordings and review artifacts stay ignored or in external evidence storage. Never put private account data in the public bucket.
 
 The tracked manifest records IDs, public object URLs, same-origin website paths, SHA-256 hashes, byte lengths, dimensions, kind, alt text, captions and video poster IDs. Paths are immutable: create a new version for corrected media. Stage approved files under an ignored source directory matching their manifest paths, then publish:
 
@@ -38,7 +38,7 @@ The tracked manifest records IDs, public object URLs, same-origin website paths,
 python3 scripts/upload-guide-media.py --source-dir artifacts/handbook/approved
 ```
 
-Use Node 24.14+ on PATH. The local publisher impersonates `glob2-website-media@bradley-personal-20261027.iam.gserviceaccount.com` with a short-lived token. Its custom role permits only object creation and reading under `guide-media/`; it cannot replace/delete objects. `scripts/guide-media-role.yaml` is the enduring role definition. The feed publisher retains its separate ratings-only permissions. The bucket IAM condition is `resource.name.startsWith("projects/_/buckets/glob2-website-public-pharaoh-418820/objects/guide-media/")`.
+Use Node 24.14+ on PATH. The local publisher impersonates `glob2-website-media@bradley-personal-20261027.iam.gserviceaccount.com` with a short-lived token. Its custom role permits only object creation and reading under `guide-media/`; it cannot replace/delete objects. `scripts/guide-media-role.yaml` is the enduring role definition. The feed publisher retains its separate ratings-only permissions. The bucket IAM condition is `resource.name.startsWith("projects/_/buckets/glob2-website-public/objects/guide-media/")`.
 
 Upload new reviewed media locally before opening its article PR, so the PR build can download the manifest’s assets. The verified website workflow produces a `guide-media` artifact from staged media; it is available for subsequent publication verification or recovery.
 

@@ -3,7 +3,7 @@ import { createHash } from 'node:crypto';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 
-export const bucket = 'glob2-website-public-pharaoh-418820';
+export const bucket = 'glob2-website-public';
 export const mediaOrigin = `https://storage.googleapis.com/${bucket}/guide-media/`;
 export function validateManifest(manifest) {
   if (manifest.schemaVersion !== 1 || !Array.isArray(manifest.assets)) throw new Error('Invalid guide media manifest');
